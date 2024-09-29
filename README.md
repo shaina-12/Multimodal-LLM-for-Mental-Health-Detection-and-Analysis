@@ -60,9 +60,3 @@ python auto_inference.py
 ## Notes
 
 - You may need to adjust the configuration paths or filenames in `auto_inference.py` based on your dataset.
-
-## References:
-
-[1] https://chatgpt.com/share/66f99972-c9bc-8007-a8bd-5415515e4267
-
-[2] https://chatgpt.com/share/66f99989-4364-8007-b4e3-09eb67aa93ab
