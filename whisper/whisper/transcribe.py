@@ -43,7 +43,7 @@ def transcribe_audio(
 
     single = mel.ndim == 2
     # TODO: change this if the desired length is not 10s
-    mel = pad_or_trim(mel, 1000).to(model.device).to(dtype)
+    mel = pad_or_trim(mel, 3000).to(model.device).to(dtype)
     if single:
         mel = mel.unsqueeze(0)
 
