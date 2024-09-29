@@ -128,4 +128,4 @@ else
     echo "File already exists: $DEST_FILE"
 fi
 
-python inference_gradio.py
+#python inference_gradio.py

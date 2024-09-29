@@ -186,7 +186,7 @@ def predict(audio_path, question):
         json.dump(eval_log, outfile, indent=1)
     print('eclipse time: ', end_time-begin_time, ' seconds.')
     return trim_string(output)
-
+"""
 link = "https://github.com/YuanGongND/ltu"
 text = "[Github]"
 paper_link = "https://arxiv.org/pdf/2305.10790.pdf"
@@ -204,3 +204,4 @@ demo = gr.Interface(fn=predict,
                     "Input should be wav file sampled at 16kHz. This demo trim input audio to 10 seconds."
                     "**Research Demo, No Commercial Use (Due to license of LLaMA).**")
 demo.launch(debug=False, share=True)
+"""
