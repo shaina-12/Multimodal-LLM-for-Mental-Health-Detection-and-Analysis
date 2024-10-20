@@ -1,0 +1,23 @@
+File Name,output
+test_670_AUDIOchunk21.wav,"Yes: If the person is depressed, they may express their feelings more openly and honestly than someone who is not depressed would do so."
+test_670_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_670_AUDIOchunk13.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_670_AUDIOchunk5.wav,"Yes: if the person is depressed. No: if the person is not depressed. This response is based on the assumption that people who are depressed tend to speak more slowly and with less variation in pitch than those who are not depressed. However, it should be noted that there may be other factors that influence speech patterns besides depression, such as age or accent."
+test_670_AUDIOchunk2.wav,Yes
+test_670_AUDIOchunk3.wav,Yes: if the person is depressed.
+test_670_AUDIOchunk4.wav,Yes
+test_670_AUDIOchunk12.wav,Yes
+test_670_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_670_AUDIOchunk20.wav,Yes
+test_670_AUDIOchunk7.wav,Yes: if the person is depressed.
+test_670_AUDIOchunk18.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that are reflected in their speech patterns."
+test_670_AUDIOchunk16.wav,Yes
+test_670_AUDIOchunk9.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_670_AUDIOchunk11.wav,"Yes: The person shows symptoms of depression by talking about wanting to erase memories and being sad about watching someone die. No: If the person is not depressed, they would not talk about these things as much or with such emotion"
+test_670_AUDIOchunk22.wav,Yes.
+test_670_AUDIOchunk8.wav,Yes.
+test_670_AUDIOchunk10.wav,Yes: if the person is depressed.
+test_670_AUDIOchunk17.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_670_AUDIOchunk19.wav,Yes
+test_670_AUDIOchunk1.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_670_AUDIOchunk6.wav,Yes

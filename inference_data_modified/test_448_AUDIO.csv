@@ -1,0 +1,42 @@
+File Name,output
+test_448_AUDIOchunk35.wav,Yes: The person shows symptoms of depression by talking about their uncle and expressing regret for something that happened.
+test_448_AUDIOchunk32.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk40.wav,Yes: if the person is depressed.
+test_448_AUDIOchunk9.wav,Yes
+test_448_AUDIOchunk7.wav,"Yes: If the person shows symptoms of depression, such as low energy, lack of interest in activities, and feelings of hopelessness or worthlessness, then they may be depressed. Otherwise, no."
+test_448_AUDIOchunk11.wav,Yes: if the person is depressed.
+test_448_AUDIOchunk16.wav,Yes
+test_448_AUDIOchunk18.wav,Yes
+test_448_AUDIOchunk23.wav,Yes: if the person shows symptoms of depression.
+test_448_AUDIOchunk24.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_448_AUDIOchunk1.wav,Yes: If the person is depressed
+test_448_AUDIOchunk6.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_448_AUDIOchunk8.wav,Yes: If the person shows symptoms of depression.
+test_448_AUDIOchunk41.wav,"Yes: if the person is depressed. No: if the person is not depressed. The speaker's tone and content suggest that they may be experiencing some level of sadness or emotional distress, which could indicate depression. However, it is possible that other factors are contributing to their mood as well. It is important to consider multiple sources of information when making a diagnosis of depression."
+test_448_AUDIOchunk33.wav,Yes
+test_448_AUDIOchunk34.wav,Yes: if the person is depressed.
+test_448_AUDIOchunk25.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk22.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk19.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk17.wav,"Yes: if the person is depressed. No: if the person is not depressed. This is because the person mentions enjoying spending time with their best friend, which is often associated with happiness rather than depression. However, there are no clear indications of whether or not the person is depressed based solely on this information. It would require further analysis of the context and content of the speech to determine this."
+test_448_AUDIOchunk10.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk21.wav,Yes
+test_448_AUDIOchunk26.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression
+test_448_AUDIOchunk28.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk13.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression.
+test_448_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk5.wav,Yes: if the person is depressed.
+test_448_AUDIOchunk2.wav,Yes: if the person is depressed.
+test_448_AUDIOchunk39.wav,Yes: if the person is depressed.
+test_448_AUDIOchunk37.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk30.wav,"Yes: If the person shows symptoms of depression, such as feeling down or hopeless for most of the day, nearly every day, for at least two weeks. No: If the person doesn't show these symptoms, they are likely not depressed."
+test_448_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk12.wav,Yes: If the person shows symptoms of depression.
+test_448_AUDIOchunk29.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk27.wav,Yes
+test_448_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk31.wav,Yes
+test_448_AUDIOchunk36.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_448_AUDIOchunk38.wav,Yes: if the person is depressed.
+test_448_AUDIOchunk3.wav,Yes
+test_448_AUDIOchunk4.wav,Yes: if the person is depressed.

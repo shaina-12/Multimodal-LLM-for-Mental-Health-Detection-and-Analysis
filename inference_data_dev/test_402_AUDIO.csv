@@ -1,0 +1,33 @@
+File Name,output
+test_402_AUDIOchunk9.wav,Depressed
+test_402_AUDIOchunk7.wav,"Yes, the person is happy"
+test_402_AUDIOchunk25.wav,"Yes, the person is sad"
+test_402_AUDIOchunk22.wav,"Yes, the woman is sad and expressing her emotions through her speech."
+test_402_AUDIOchunk17.wav,"Yes, the speaker is happy"
+test_402_AUDIOchunk10.wav,"Yes, the person is sad"
+test_402_AUDIOchunk19.wav,Yes
+test_402_AUDIOchunk18.wav,"Yes, the person is depressed based on the low-pitched and muffled speech."
+test_402_AUDIOchunk11.wav,"No, the person is happy in this audio clip as indicated by their laughter and positive emotional rating."
+test_402_AUDIOchunk16.wav,"Yes, the speaker is depressed as indicated by her speech content and the sad emotion conveyed."
+test_402_AUDIOchunk1.wav,"No, the person is not depressed as indicated by their cheerful and positive speech content."
+test_402_AUDIOchunk23.wav,"Yes, the person is sad"
+test_402_AUDIOchunk6.wav,"No, the speaker is not depressed based on her speech characteristics and content. She seems excited about moving to a new place."
+test_402_AUDIOchunk24.wav,"Yes, the person is depressed based on the speech content and acoustic features of the audio clip. The slow speech speed and low volume indicate sadness and hopelessness, which are common symptoms of depression. Additionally, the background noise suggests that the person may be feeling isolated or alone, which can also contribute to feelings of depression. Overall, it seems like the person is struggling with their emotions and seeking comfort or support from someone else."
+test_402_AUDIOchunk8.wav,"No, the person is not depressed based on the given acoustic features and speech content. They seem happy and excited."
+test_402_AUDIOchunk32.wav,"Yes, the person is depressed based on the tone of their voice and the content of their speech."
+test_402_AUDIOchunk31.wav,No
+test_402_AUDIOchunk15.wav,"No, the person is not depressed as indicated by their speech content"
+test_402_AUDIOchunk12.wav,"Yes, the person is depressed as indicated by the low-pitched and slow speech pattern and the sad tone of voice."
+test_402_AUDIOchunk5.wav,"Yes, the person in this audio seems to be depressed based on their speech patterns and tone of voice."
+test_402_AUDIOchunk27.wav,"Yes, the woman is depressed based on her speech."
+test_402_AUDIOchunk2.wav,"No, the person in this audio is not depressed. It is neutral."
+test_402_AUDIOchunk20.wav,"Yes, the person is depressed based on the speech content and acoustic features."
+test_402_AUDIOchunk29.wav,Yes.
+test_402_AUDIOchunk30.wav,No.
+test_402_AUDIOchunk28.wav,"Yes, the person is feeling down and has a negative outlook."
+test_402_AUDIOchunk3.wav,"Yes, the person is depressed as indicated by their speech."
+test_402_AUDIOchunk21.wav,"Yes, the speaker is depressed based on the speech content."
+test_402_AUDIOchunk4.wav,"No, the person is not depressed as indicated by their speech pattern."
+test_402_AUDIOchunk26.wav,"Yes, the person is sad."
+test_402_AUDIOchunk13.wav,"No, the person is not depressed based on the given information. The speech content and background sounds do not indicate any signs of sadness or emotional distress. It seems like the speaker is just talking casually without any underlying emotions or feelings."
+test_402_AUDIOchunk14.wav,Yes

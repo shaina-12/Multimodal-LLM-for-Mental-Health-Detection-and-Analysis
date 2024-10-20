@@ -1,0 +1,35 @@
+File Name,output
+test_423_AUDIOchunk14.wav,Yes
+test_423_AUDIOchunk13.wav,Yes
+test_423_AUDIOchunk28.wav,"Yes, the person shows symptoms of depression based on their speech."
+test_423_AUDIOchunk26.wav,Yes
+test_423_AUDIOchunk21.wav,"Yes, the woman seems to be depressed based on her soft and muffled speech pattern."
+test_423_AUDIOchunk30.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice. The slow speech speed and low volume suggest that they may be feeling down or struggling with negative emotions. Additionally, the use of words like 'sadness' and 'depressing' indicate a sense of despair or hopelessness."
+test_423_AUDIOchunk3.wav,"Yes, the woman's speech suggests that she may be depressed based on her tone and content."
+test_423_AUDIOchunk4.wav,"Yes, based on the tone of her voice and the content of her speech, it seems likely that she may be experiencing some level of depression."
+test_423_AUDIOchunk20.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice. The slow speech speed and low volume suggest they may be feeling down or lacking energy."
+test_423_AUDIOchunk27.wav,Yes
+test_423_AUDIOchunk29.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice. The slow speech speed and low volume suggest a lack of energy and enthusiasm, which can be indicative of depression."
+test_423_AUDIOchunk12.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice. The slow speech speed and monotone delivery suggest that they may be feeling down or overwhelmed by the situation at hand."
+test_423_AUDIOchunk15.wav,"Yes, the person shows symptoms of depression based on their speech."
+test_423_AUDIOchunk5.wav,"Yes, the woman's speech suggests she may be depressed based on her tone and content."
+test_423_AUDIOchunk2.wav,No
+test_423_AUDIOchunk31.wav,Yes
+test_423_AUDIOchunk1.wav,Yes
+test_423_AUDIOchunk6.wav,Yes
+test_423_AUDIOchunk8.wav,"Yes, the woman seems to be depressed based on her speech patterns and tone of voice."
+test_423_AUDIOchunk32.wav,"Yes, the person shows symptoms of depression."
+test_423_AUDIOchunk24.wav,"Yes, the person shows symptoms of depression based on their speech patterns"
+test_423_AUDIOchunk23.wav,"Yes, the person shows symptoms of depression based on their speech patterns and emotional state."
+test_423_AUDIOchunk18.wav,Yes
+test_423_AUDIOchunk16.wav,Yes
+test_423_AUDIOchunk11.wav,Yes
+test_423_AUDIOchunk34.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_423_AUDIOchunk9.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice during the conversation"
+test_423_AUDIOchunk33.wav,"Yes, the person shows symptoms of depression based on their speech patterns."
+test_423_AUDIOchunk7.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice as described by the acoustic features provided in the description."
+test_423_AUDIOchunk10.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_423_AUDIOchunk17.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_423_AUDIOchunk19.wav,Yes
+test_423_AUDIOchunk22.wav,"No, the person does not seem to be depressed based on their speech patterns and tone."
+test_423_AUDIOchunk25.wav,"Yes, the speaker mentions dealing with someone's meanness for an extended period of time which could be a sign of depression. However, it is also possible that the speaker is simply describing their experience without necessarily indicating whether they are depressed or not. Therefore, the answer is 'Yes', as per the given speech content."

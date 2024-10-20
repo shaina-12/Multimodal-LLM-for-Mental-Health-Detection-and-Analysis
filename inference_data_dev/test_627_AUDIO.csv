@@ -1,0 +1,47 @@
+File Name,output
+test_627_AUDIOchunk13.wav,Yes.
+test_627_AUDIOchunk14.wav,"Yes, the person is depressed based on their speech pattern."
+test_627_AUDIOchunk21.wav,"Yes, the person is depressed based on their speech."
+test_627_AUDIOchunk26.wav,"Yes, the person is depressed as indicated by their speech."
+test_627_AUDIOchunk28.wav,"Yes, the person is sad."
+test_627_AUDIOchunk42.wav,Yes
+test_627_AUDIOchunk39.wav,"Speech sentiment score is 1. The  score ranges from -3 (very negative) to 3 (very positive), so the sentiment is positive. As per the speaker's speech, he seems to be happy and excited about his experience. However, the low speech volume might indicate a lack of enthusiasm or excitement. Therefore, the answer is 'yes', the person in this audio is depressed. It can also imply that the person may have some underlying emotional issues that are affecting their ability to express themselves fully."
+test_627_AUDIOchunk45.wav,"No, the person is not depressed as indicated by their laughter"
+test_627_AUDIOchunk37.wav,Depressed.
+test_627_AUDIOchunk30.wav,"Yes, the person in this audio is depressed based on the acoustic features of their speech and tone."
+test_627_AUDIOchunk5.wav,Yes
+test_627_AUDIOchunk2.wav,"No, the person is not depressed based on the given acoustic features alone."
+test_627_AUDIOchunk29.wav,Yes
+test_627_AUDIOchunk27.wav,Yes.
+test_627_AUDIOchunk20.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_627_AUDIOchunk15.wav,"Yes, the person is depressed based on their speech."
+test_627_AUDIOchunk12.wav,"No, the person is not depressed based on the given information."
+test_627_AUDIOchunk3.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_627_AUDIOchunk4.wav,Yes
+test_627_AUDIOchunk31.wav,Yes
+test_627_AUDIOchunk36.wav,"Yes, the speaker is depressed based on the low pitch and slow speed of their speech, which are indicative of sadness and lack of energy."
+test_627_AUDIOchunk38.wav,No
+test_627_AUDIOchunk44.wav,"No, the person is not depressed based on the given information"
+test_627_AUDIOchunk43.wav,"Yes, the person is depressed as indicated by their low-pitched and monotone voice which is a common symptom of depression. It can also be inferred from the fact that they are talking to themselves in a quiet environment."
+test_627_AUDIOchunk9.wav,"Yes, the person in this audio is depressed based on the acoustic features described as 'deep, low-pitched, and resonant', which are commonly associated with sadness and melancholy."
+test_627_AUDIOchunk7.wav,"No, the person is not depressed based on the given speech content."
+test_627_AUDIOchunk35.wav,"Yes, the person is depressed based on the speech content and background sounds of sighing and breathing, which are indicative of emotional distress and sadness. The speaker mentions feeling like things were simpler before joining the army, which suggests they may have experienced trauma or loss during their service. This combination of speech content and background sounds indicates that the person is likely experiencing feelings of sadness and hopelessness."
+test_627_AUDIOchunk32.wav,"Depressed, because they are talking about their sleeping habits."
+test_627_AUDIOchunk40.wav,Depressed. It is mentioned that the person is depressed based on their speech pattern and tone of voice.
+test_627_AUDIOchunk23.wav,Yes.
+test_627_AUDIOchunk24.wav,"Yes, the person is depressed based on their speech being low and monotone with no variation in pitch."
+test_627_AUDIOchunk11.wav,Yes
+test_627_AUDIOchunk16.wav,Yes
+test_627_AUDIOchunk18.wav,Yes
+test_627_AUDIOchunk46.wav,"Yes, the person is depressed based on their speech."
+test_627_AUDIOchunk41.wav,"Yes, the person is depressed based on their speech patterns and tone of voice. The slow and monotonous speech pattern indicates sadness and lack of energy, while the low-pitched and soft acoustic features suggest a sense of vulnerability and emotional distress. Additionally, the use of words such as 'sad' and 'depressing' further supports this inference. However, it should be noted that these characteristics are not exclusive to individuals experiencing depression."
+test_627_AUDIOchunk33.wav,"No, the person is not depressed as indicated by their happy speech."
+test_627_AUDIOchunk34.wav,"Yes, the person is depressed."
+test_627_AUDIOchunk1.wav,"Yes, the person is depressed based on their sighing."
+test_627_AUDIOchunk6.wav,"Yes, the person is depressed based on the acoustic features of their speech being soft, low-pitched, and monotone."
+test_627_AUDIOchunk8.wav,No
+test_627_AUDIOchunk19.wav,"No, the person is not depressed"
+test_627_AUDIOchunk17.wav,"Yes, the speaker is depressed based on the low-pitched and melancholic tone of their voice in the audio."
+test_627_AUDIOchunk10.wav,No
+test_627_AUDIOchunk25.wav,"Yes, the person is depressed based on their speech."
+test_627_AUDIOchunk22.wav,"No, the person is not depressed as indicated by their cheerful tone of voice and positive response to the question about serving.  The speaker's speech content also does not suggest any signs of depression or sadness."

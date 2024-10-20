@@ -1,0 +1,31 @@
+File Name,output
+test_350_AUDIOchunk1.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice"
+test_350_AUDIOchunk27.wav,"No, the speaker is not depressed as indicated by the positive tone of her voice and the content of her speech about doing a science project."
+test_350_AUDIOchunk6.wav,"Yes, the speaker is sad."
+test_350_AUDIOchunk20.wav,"Yes, the speaker is depressed based on their speech content about feeling overwhelmed by thoughts and difficulty sleeping, which are common symptoms of depression. The low volume and slow speed also suggest a lack of energy and motivation commonly associated with depression. However, the fact that they mention reading a journal suggests an attempt at self-care and seeking support, which could indicate hopefulness despite the depressive symptoms. Overall, the combination of speech content and acoustic features suggests a complex emotional state characterized by both sadness and resilience. It is possible that the speaker is struggling with their mental health but still trying to maintain a sense of control and hope."
+test_350_AUDIOchunk8.wav,"Yes, the person is sad."
+test_350_AUDIOchunk29.wav,Yes.
+test_350_AUDIOchunk15.wav,"Yes, the person is depressed."
+test_350_AUDIOchunk12.wav,"No, the person is not depressed."
+test_350_AUDIOchunk13.wav,"No, the speaker does not seem depressed based on the speech content and pitch of her voice."
+test_350_AUDIOchunk14.wav,"Yes, the person is depressed."
+test_350_AUDIOchunk28.wav,No
+test_350_AUDIOchunk9.wav,"Yes, the person in this audio is depressed as indicated by their speech pattern.  The acoustic features are slow and monotonous which are typical for depression patients"
+test_350_AUDIOchunk7.wav,"Yes, the person is depressed."
+test_350_AUDIOchunk21.wav,"Yes, the person is depressed"
+test_350_AUDIOchunk26.wav,Yes
+test_350_AUDIOchunk30.wav,No
+test_350_AUDIOchunk17.wav,"No, the speaker is not depressed as indicated by their speech content and tone of voice. They express a desire to engage with others and take on new challenges, which suggests they are motivated and optimistic about their future prospects rather than feeling down."
+test_350_AUDIOchunk10.wav,"No, the person is not depressed"
+test_350_AUDIOchunk19.wav,"No, the person in this audio is not depressed. They are simply talking."
+test_350_AUDIOchunk3.wav,No
+test_350_AUDIOchunk25.wav,"Yes, the speaker is depressed as inferred from the speech content and the low volume of her voice. The slow speech speed also suggests a lack of energy and enthusiasm, which are common symptoms of depression. However, the speech content itself does not explicitly mention depression."
+test_350_AUDIOchunk4.wav,"No, the person is not depressed as indicated by their cheerful tone and positive attitude towards travel."
+test_350_AUDIOchunk22.wav,"Yes, the person is depressed as indicated by their low-pitched and melancholic speech pattern"
+test_350_AUDIOchunk5.wav,Yes
+test_350_AUDIOchunk23.wav,Yes.
+test_350_AUDIOchunk2.wav,"No, the person is not depressed as they are happy and excited about something"
+test_350_AUDIOchunk24.wav,"Yes, the person is depressed"
+test_350_AUDIOchunk18.wav,"Yes, the person is depressed as indicated by their speech."
+test_350_AUDIOchunk11.wav,"No, the person in this audio is not depressed."
+test_350_AUDIOchunk16.wav,"Yes, the speaker is depressed."

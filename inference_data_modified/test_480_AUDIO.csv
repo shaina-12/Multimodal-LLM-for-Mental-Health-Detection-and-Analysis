@@ -1,0 +1,30 @@
+File Name,output
+test_480_AUDIOchunk17.wav,Yes: if the person is depressed
+test_480_AUDIOchunk10.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk19.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_480_AUDIOchunk25.wav,Yes.
+test_480_AUDIOchunk22.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk7.wav,Yes: If the person is depressed
+test_480_AUDIOchunk9.wav,Yes
+test_480_AUDIOchunk23.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk24.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk18.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk11.wav,Yes
+test_480_AUDIOchunk16.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk8.wav,Yes
+test_480_AUDIOchunk1.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk6.wav,"Yes: If the person is depressed, they may express negative emotions or speak slowly and softly."
+test_480_AUDIOchunk5.wav,Yes
+test_480_AUDIOchunk2.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_480_AUDIOchunk27.wav,Yes
+test_480_AUDIOchunk20.wav,Yes
+test_480_AUDIOchunk29.wav,Yes.
+test_480_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk12.wav,Yes
+test_480_AUDIOchunk3.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk4.wav,Yes: if the person shows symptoms of depression or expresses negative emotions throughout the conversation. No: if the person remains positive and upbeat throughout the conversation.
+test_480_AUDIOchunk13.wav,"Yes: If the person is depressed, they may have difficulty expressing themselves or may be hesitant to engage in conversation."
+test_480_AUDIOchunk14.wav,Yes
+test_480_AUDIOchunk28.wav,"Yes: If the person is depressed, they may express their feelings through speech and sound."
+test_480_AUDIOchunk21.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_480_AUDIOchunk26.wav,Yes: if the person is depressed.

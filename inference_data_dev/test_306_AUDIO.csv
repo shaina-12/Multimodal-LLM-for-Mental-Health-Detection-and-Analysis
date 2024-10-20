@@ -1,0 +1,30 @@
+File Name,output
+test_306_AUDIOchunk18.wav,Yes
+test_306_AUDIOchunk11.wav,"Yes, the person is sad"
+test_306_AUDIOchunk16.wav,"Yes, the person is depressed according to the given information in the speech. The woman says 'I have depression.'"
+test_306_AUDIOchunk23.wav,"No, the speaker is not depressed. The speech content suggests that they are proud of their daughter's achievement and happy about it, which indicates that they are not depressed"
+test_306_AUDIOchunk7.wav,"No, the person is not depressed as they are talking."
+test_306_AUDIOchunk24.wav,Yes
+test_306_AUDIOchunk9.wav,Depressed
+test_306_AUDIOchunk8.wav,"Yes, the person in this audio is depressed. The acoustic features of their speech indicate sadness and low energy levels."
+test_306_AUDIOchunk6.wav,"No, the person in this audio is not depressed. The tone and content of their speech indicate they are happy and engaged with the conversation happening around them."
+test_306_AUDIOchunk25.wav,"Yes, the person is depressed."
+test_306_AUDIOchunk1.wav,"No, the person in this audio is not depressed."
+test_306_AUDIOchunk22.wav,"No, the speaker is not depressed based on the given speech content and emotional rating"
+test_306_AUDIOchunk17.wav,No
+test_306_AUDIOchunk10.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_306_AUDIOchunk19.wav,"Yes, the speaker is depressed."
+test_306_AUDIOchunk28.wav,"Yes, the speaker is happy and has a positive emotion."
+test_306_AUDIOchunk2.wav,"No, the person is not depressed based on the given information. The speech content suggests that they are happy and positive, which is not typically associated with depression. However, it is possible that there could be other factors contributing to their emotional state that are not evident from the audio alone."
+test_306_AUDIOchunk21.wav,"Yes, the speaker is considered an introvert by some people, as mentioned in the speech content."
+test_306_AUDIOchunk5.wav,"No, the speaker does not seem to be depressed based on her speech characteristics"
+test_306_AUDIOchunk26.wav,"Yes, the speaker is happy."
+test_306_AUDIOchunk13.wav,"Yes, the person in this audio is depressed based on the acoustic features described in the prompt."
+test_306_AUDIOchunk14.wav,"Yes, the person is depressed as indicated by their speech pattern and tone"
+test_306_AUDIOchunk15.wav,"Yes, the person is depressed based on their speech content and tone"
+test_306_AUDIOchunk12.wav,"Yes, the speaker is depressed based on the speech content."
+test_306_AUDIOchunk4.wav,"No, the person in this audio is not depressed."
+test_306_AUDIOchunk27.wav,"Yes, the person is depressed."
+test_306_AUDIOchunk3.wav,"No, the person is not depressed"
+test_306_AUDIOchunk20.wav,"Yes, the person in this audio is depressed"
+test_306_AUDIOchunk29.wav,"No, the person is not depressed in this audio."

@@ -1,0 +1,29 @@
+File Name,output
+test_301_AUDIOchunk7.wav,Yes: If the person shows symptoms of depression.
+test_301_AUDIOchunk9.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_301_AUDIOchunk14.wav,"Spoken text: I think they're very inspiring, which is sometimes a bit tough in a town like Los Angeles where I think everybody's on the go trying to accomplish their own goals. It's sometimes hard to find someone who's going to be uplifting or try to be inspiring. I don't really have anybody in particular, but people have kind of brought up things here and there. Like what?"
+test_301_AUDIOchunk13.wav,"Spoken text: I'm usually around musicians, so anything of that sort. I like everything from punk rock art to tattoos to just anything that's generally art and creative. Awesome. Who's someone that's been a positive influence in your life? Who's been a positive? I think it's just friends in general who seem to do well"
+test_301_AUDIOchunk26.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_301_AUDIOchunk21.wav,Yes: if the person is depressed.
+test_301_AUDIOchunk28.wav,Yes
+test_301_AUDIOchunk8.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_301_AUDIOchunk6.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_301_AUDIOchunk1.wav,Yes
+test_301_AUDIOchunk20.wav,Yes: If the person shows symptoms of depression
+test_301_AUDIOchunk27.wav,Yes: if the person is depressed.
+test_301_AUDIOchunk12.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_301_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_301_AUDIOchunk24.wav,Yes: if the person is depressed.
+test_301_AUDIOchunk23.wav,Yes: if the person is depressed.
+test_301_AUDIOchunk16.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_301_AUDIOchunk11.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_301_AUDIOchunk18.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_301_AUDIOchunk2.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression.
+test_301_AUDIOchunk5.wav,Yes: If the person shows symptoms of depression.
+test_301_AUDIOchunk19.wav,Yes
+test_301_AUDIOchunk10.wav,Yes
+test_301_AUDIOchunk17.wav,Yes: if the person is depressed.
+test_301_AUDIOchunk22.wav,Yes
+test_301_AUDIOchunk25.wav,Yes: if the person shows symptoms of depression based on their speech patterns
+test_301_AUDIOchunk4.wav,"Yes: If the person is depressed, they may express negative emotions and have a monotone voice during their speech. No: If the person is not depressed, they will likely speak with more enthusiasm and variety in their tone."
+test_301_AUDIOchunk3.wav,Yes: if the person is depressed. No: if the person is not depressed.

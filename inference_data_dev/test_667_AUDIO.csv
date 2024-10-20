@@ -1,0 +1,30 @@
+File Name,output
+test_667_AUDIOchunk23.wav,"Yes, the person is depressed."
+test_667_AUDIOchunk24.wav,"Yes, the person is depressed."
+test_667_AUDIOchunk11.wav,"Yes, the person is depressed based on their speech pattern and tone"
+test_667_AUDIOchunk16.wav,"Yes, the person is depressed."
+test_667_AUDIOchunk18.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice."
+test_667_AUDIOchunk7.wav,"Yes, the person is depressed based on their speech patterns and tone of voice."
+test_667_AUDIOchunk9.wav,"Yes, the person is depressed based on their speech."
+test_667_AUDIOchunk19.wav,No.
+test_667_AUDIOchunk17.wav,Yes
+test_667_AUDIOchunk10.wav,"Yes, the person is depressed based on their speech content and tone"
+test_667_AUDIOchunk25.wav,"Yes, the person is depressed based on their speech patterns and tone of voice. The background noise does not indicate any specific mood or emotion, but it can be inferred that the person is feeling down or sad from their speech content and tone."
+test_667_AUDIOchunk22.wav,"No, the person is not depressed as indicated by their positive and cheerful tone of voice"
+test_667_AUDIOchunk8.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_667_AUDIOchunk1.wav,"Yes, the person is depressed."
+test_667_AUDIOchunk6.wav,No.
+test_667_AUDIOchunk5.wav,"Yes, the person is depressed based on their speech pattern and tone"
+test_667_AUDIOchunk2.wav,"No, the person is not depressed based on the given acoustic features of their speech and laughter. They seem to be happy and engaged with the conversation happening."
+test_667_AUDIOchunk13.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_667_AUDIOchunk14.wav,"No, the person is not depressed based on the cheerful tone of their voice while talking about their work."
+test_667_AUDIOchunk21.wav,Yes.
+test_667_AUDIOchunk26.wav,"No, the person is not depressed as indicated by their positive tone and enthusiasm."
+test_667_AUDIOchunk28.wav,"Yes, the person is depressed based on their speech content."
+test_667_AUDIOchunk3.wav,"Yes, the person is depressed."
+test_667_AUDIOchunk4.wav,No
+test_667_AUDIOchunk29.wav,"No, the person in this audio is not depressed as there are no signs of sadness or despair in their speech"
+test_667_AUDIOchunk27.wav,Yes
+test_667_AUDIOchunk20.wav,"Yes, the person is depressed as indicated by their soft and muffled speech."
+test_667_AUDIOchunk15.wav,Spoken text: I think it made me a better person and give me better skills maybe a Discipline give me a step above Normal people and it gave me education that I was able to access finally Hmm pretty good pretty determined
+test_667_AUDIOchunk12.wav,"Yes, the person is saddened"

@@ -1,0 +1,30 @@
+File Name,output
+dev_656_AUDIOchunk2.wav,"Yes, the person shows symptoms of depression based on their speech patterns."
+dev_656_AUDIOchunk5.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+dev_656_AUDIOchunk20.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+dev_656_AUDIOchunk12.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+dev_656_AUDIOchunk15.wav,Yes
+dev_656_AUDIOchunk4.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+dev_656_AUDIOchunk3.wav,Yes
+dev_656_AUDIOchunk14.wav,"Yes, the person shows symptoms of depression based on their speech patterns and emotional state."
+dev_656_AUDIOchunk13.wav,Yes
+dev_656_AUDIOchunk26.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice. The slow and monotonous speech pattern suggests that they are feeling down or lacking energy, while the low volume and softness of their voice indicate a sense of vulnerability or sadness. Additionally, the use of words like 'really' and 'sigh' suggest a sense of frustration or disappointment with themselves or others. Overall, these characteristics align with common symptoms of depression such as negative self-talk, hopelessness, and emotional detachment from others. 
+
+### Response:
+No, the person does not show any symptoms of depression based on their speech patterns and tone of voice. They speak at a normal pace and volume, without any signs of sadness or despair. Their words and phrases are positive and upbeat, suggesting a sense of optimism and enthusiasm. Therefore, it is unlikely that the person is experiencing depression."
+dev_656_AUDIOchunk21.wav,Yes
+dev_656_AUDIOchunk19.wav,"Yes, the person shows symptoms of depression as they mention being sick recently."
+dev_656_AUDIOchunk10.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+dev_656_AUDIOchunk17.wav,Yes
+dev_656_AUDIOchunk22.wav,Yes.
+dev_656_AUDIOchunk25.wav,Yes
+dev_656_AUDIOchunk9.wav,"Yes, the person shows symptoms of depression based on their speech patterns."
+dev_656_AUDIOchunk7.wav,Yes
+dev_656_AUDIOchunk24.wav,"Yes, the person shows symptoms of depression."
+dev_656_AUDIOchunk23.wav,Yes
+dev_656_AUDIOchunk16.wav,"Yes, the person shows symptoms of depression based on their speech."
+dev_656_AUDIOchunk11.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+dev_656_AUDIOchunk18.wav,Yes
+dev_656_AUDIOchunk6.wav,"Yes, the speaker's speech content suggests they are depressed based on their slow and monotone delivery, lack of enthusiasm, and mentioning feeling down and tired. The low pitch of their voice also contributes to the perception of sadness and melancholy. However, it is important to note that these characteristics do not necessarily indicate clinical depression, as there may be other factors contributing to the speaker's emotional state."
+dev_656_AUDIOchunk1.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+dev_656_AUDIOchunk8.wav,"Yes, because the person mentions feeling sad and expressing their emotions."

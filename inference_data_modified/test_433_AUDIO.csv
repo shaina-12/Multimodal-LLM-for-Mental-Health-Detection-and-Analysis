@@ -1,0 +1,28 @@
+File Name,output
+test_433_AUDIOchunk6.wav,Yes: If the person is depressed
+test_433_AUDIOchunk12.wav,Yes
+test_433_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_433_AUDIOchunk1.wav,Yes
+test_433_AUDIOchunk8.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_433_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_433_AUDIOchunk27.wav,Yes.
+test_433_AUDIOchunk26.wav,"Yes: If the person is depressed, they may express negative emotions or have difficulty finding things positive about their life. No: If the person is not depressed, they will likely express more positive emotions and find things to be grateful for in their life."
+test_433_AUDIOchunk21.wav,Yes: if the person is depressed. No: if the person is not depressed. It is hard to tell from the given information alone.
+test_433_AUDIOchunk9.wav,Yes: If the person shows symptoms of depression.
+test_433_AUDIOchunk14.wav,Yes: If the person is depressed
+test_433_AUDIOchunk7.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_433_AUDIOchunk13.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_433_AUDIOchunk22.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low mood and lack of energy that are mentioned in the speech."
+test_433_AUDIOchunk25.wav,Yes
+test_433_AUDIOchunk19.wav,Yes: if the person is depressed.
+test_433_AUDIOchunk4.wav,"Yes: If the person is depressed, there are signs of sadness or hopelessness in their speech patterns"
+test_433_AUDIOchunk10.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_433_AUDIOchunk17.wav,Yes
+test_433_AUDIOchunk3.wav,Yes: if the person is depressed.
+test_433_AUDIOchunk16.wav,Yes
+test_433_AUDIOchunk2.wav,Yes: if the person is depressed. No: if the person is not depressed. The speaker can be inferred to be depressed based on the tone and content of their speech.
+test_433_AUDIOchunk5.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_433_AUDIOchunk11.wav,"Yes: if the person is depressed. No: if the person is not depressed. This response is based on the assumption that the speaker's tone and content indicate signs of depression, such as hopelessness, sadness, or lack of motivation. However, it is possible that these characteristics are present regardless of whether the person is depressed or not."
+test_433_AUDIOchunk18.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_433_AUDIOchunk24.wav,Yes: if the person is depressed.
+test_433_AUDIOchunk23.wav,Yes: if the person is depressed. No: if the person is not depressed.

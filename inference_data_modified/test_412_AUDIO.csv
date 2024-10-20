@@ -1,0 +1,30 @@
+File Name,output
+test_412_AUDIOchunk9.wav,"Yes: The speaker mentions feeling sad and expressing their emotions, which are common symptoms of depression."
+test_412_AUDIOchunk7.wav,Yes
+test_412_AUDIOchunk25.wav,Yes
+test_412_AUDIOchunk22.wav,"Yes: The man's speech sounds monotonous and lacks enthusiasm, which could indicate depression."
+test_412_AUDIOchunk17.wav,Yes
+test_412_AUDIOchunk10.wav,Yes
+test_412_AUDIOchunk19.wav,"Yes: If the person is depressed, they may be experiencing difficulty falling asleep due to their thoughts."
+test_412_AUDIOchunk18.wav,Yes: if the person shows symptoms of depression.
+test_412_AUDIOchunk11.wav,Yes
+test_412_AUDIOchunk16.wav,Yes
+test_412_AUDIOchunk1.wav,"Yes: If the person is depressed, they may exhibit signs of sadness or hopelessness that could be heard in their speech patterns and tone."
+test_412_AUDIOchunk23.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_412_AUDIOchunk6.wav,Yes
+test_412_AUDIOchunk24.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_412_AUDIOchunk8.wav,"Yes: If the person shows symptoms of depression, such as low energy or lack of interest in things they used to enjoy."
+test_412_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_412_AUDIOchunk12.wav,"Yes: The person shows symptoms of depression by expressing feelings of sadness and hopelessness during their speech, as well as mentioning feeling okay despite these emotions. Additionally, they may have difficulty thinking of a situation where they handled things better. These are common signs of depression. Therefore, the answer is yes."
+test_412_AUDIOchunk5.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_412_AUDIOchunk27.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_412_AUDIOchunk2.wav,Yes: if the person is depressed.
+test_412_AUDIOchunk20.wav,No
+test_412_AUDIOchunk29.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness, hopelessness, and lack of energy that are reflected in their speech patterns."
+test_412_AUDIOchunk28.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low energy or lack of motivation, which could be reflected in their speech patterns and tone."
+test_412_AUDIOchunk3.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that are reflected in their speech patterns and tone of voice. No: If the person is not depressed, they will likely have more positive and upbeat speech patterns and tone of voice."
+test_412_AUDIOchunk21.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_412_AUDIOchunk4.wav,Yes: if the person shows symptoms of depression.
+test_412_AUDIOchunk26.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_412_AUDIOchunk13.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_412_AUDIOchunk14.wav,Yes: The person shows symptoms of depression by expressing difficulty making decisions and being hesitant.

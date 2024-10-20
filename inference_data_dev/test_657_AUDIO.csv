@@ -1,0 +1,34 @@
+File Name,output
+test_657_AUDIOchunk19.wav,Yes
+test_657_AUDIOchunk10.wav,"Yes, the speaker is depressed as indicated by the low pitch and slow speech speed."
+test_657_AUDIOchunk17.wav,"Spoken text: church that I was going to at the time, they had set up this event where a bus would come and pick up all the kids and take them to a Shaggy Cheese. What ended up happening was the bus never showed up. We were sitting there for literally about an hour and a half, close to two hours, and the bus never showed up and everybody was heartbroken. I know that's not really anything major."
+test_657_AUDIOchunk22.wav,"Yes, the speaker is depressed as indicated by his low-pitched voice and slow speech speed, which are typical symptoms of depression. Additionally, he mentions feeling down about his situation, which suggests he may be experiencing negative emotions related to his transition from school to work."
+test_657_AUDIOchunk25.wav,Speech emotion: disgust;
+test_657_AUDIOchunk4.wav,"No, the person is not depressed in this audio."
+test_657_AUDIOchunk3.wav,"No, the person is not depressed as indicated by their cheerful tone of voice while speaking."
+test_657_AUDIOchunk33.wav,"Yes, the person is sad and depressed in this audio."
+test_657_AUDIOchunk24.wav,"Yes, the person is depressed based on the acoustic features of their speech pattern."
+test_657_AUDIOchunk23.wav,"Yes, the person is sad"
+test_657_AUDIOchunk16.wav,"Yes, the person is sad, based on the low pitch of his voice."
+test_657_AUDIOchunk11.wav,Yes
+test_657_AUDIOchunk18.wav,"Yes, the person is sad"
+test_657_AUDIOchunk2.wav,"No, the person in this audio is not depressed as it sounds cheerful and upbeat."
+test_657_AUDIOchunk32.wav,"No, the person is not depressed based on their heartbeat."
+test_657_AUDIOchunk5.wav,"Yes, the person is depressed as indicated by their slow speech speed and monotone voice tone."
+test_657_AUDIOchunk6.wav,"Yes, the person is depressed as indicated by their low-pitched and monotone speech which is a common symptom of depression. The acoustic features of the speech indicate that the person is not expressing any positive emotions."
+test_657_AUDIOchunk1.wav,Yes
+test_657_AUDIOchunk31.wav,Yes
+test_657_AUDIOchunk8.wav,"Yes, the person in this audio is depressed based on their speech pattern."
+test_657_AUDIOchunk29.wav,"Yes, the person is depressed based on their speech."
+test_657_AUDIOchunk20.wav,"No, the person is not depressed as indicated by their positive and enthusiastic tone of voice"
+test_657_AUDIOchunk27.wav,"Yes, the person is depressed based on their speech pattern."
+test_657_AUDIOchunk12.wav,"No, the person in this audio is not depressed as there is no indication of sadness or despair in their speech or tone."
+test_657_AUDIOchunk15.wav,"No, the person is not depressed based on the given information and acoustic features."
+test_657_AUDIOchunk9.wav,Yes
+test_657_AUDIOchunk30.wav,"Speech sentiment score is 1. The  score ranges from -3 (very negative) to 3 (very positive), so the sentiment is positive."
+test_657_AUDIOchunk7.wav,"No, the person is not depressed"
+test_657_AUDIOchunk14.wav,"No, the person is not depressed based on the given information. The speech content does not indicate any signs of depression."
+test_657_AUDIOchunk13.wav,"No, the person in this audio is not depressed as there are no signs of sadness or despair in their speech patterns or tone of voice. The conversation seems to be light-hearted and casual, indicating that the speaker is not feeling down or upset."
+test_657_AUDIOchunk26.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_657_AUDIOchunk21.wav,"Yes, the speaker is sad."
+test_657_AUDIOchunk28.wav,"No, the person is not depressed"

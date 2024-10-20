@@ -1,0 +1,30 @@
+File Name,output
+test_412_AUDIOchunk9.wav,"Depressed, based on the low-pitched and soft tone of the speaker's voice."
+test_412_AUDIOchunk7.wav,"Yes, the person is sad, based on the acoustic features described."
+test_412_AUDIOchunk25.wav,"Yes, the person in this audio is depressed as indicated by the low-pitched and monotone speech pattern, which is a common symptom of depression. The slow speech speed also supports this inference. Additionally, the background noise suggests that the person may be alone and feeling isolated, which can contribute to feelings of sadness and hopelessness."
+test_412_AUDIOchunk22.wav,"No, the person is not depressed based on the given information."
+test_412_AUDIOchunk17.wav,"Yes, the person is depressed."
+test_412_AUDIOchunk10.wav,"Yes, the person is depressed."
+test_412_AUDIOchunk19.wav,"No, the person is not depressed as indicated by their speech pattern and tone of voice being cheerful and upbeat throughout the clip."
+test_412_AUDIOchunk18.wav,"No, the person in this audio does not seem to be depressed as there are no signs of sadness or despair."
+test_412_AUDIOchunk11.wav,"Yes, the person is sad."
+test_412_AUDIOchunk16.wav,"Yes, the person is sad."
+test_412_AUDIOchunk1.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_412_AUDIOchunk23.wav,"Yes, the person is depressed based on the acoustic feature of their speech being low-pitched and monotone."
+test_412_AUDIOchunk6.wav,"Yes, the person is depressed."
+test_412_AUDIOchunk24.wav,"Yes, the person in this audio is depressed."
+test_412_AUDIOchunk8.wav,No
+test_412_AUDIOchunk15.wav,Yes
+test_412_AUDIOchunk12.wav,"Depressed, yes."
+test_412_AUDIOchunk5.wav,"Yes, the person in this audio seems to be depressed based on their speech pattern and tone."
+test_412_AUDIOchunk27.wav,"Spoken text: I just went I guess some of the times I've gone dancing I went to a casino in a little town called Temecula I met a lot of new friends and did dancing and meeting friends new friends, ."
+test_412_AUDIOchunk2.wav,"No, the person is not depressed based on the given information in the audio clip. The sound of opening and closing drawers does not indicate any emotional state such as sadness or happiness."
+test_412_AUDIOchunk20.wav,"Yes, the person is feeling sad"
+test_412_AUDIOchunk29.wav,"Yes, the person is happy and excited"
+test_412_AUDIOchunk28.wav,No.
+test_412_AUDIOchunk3.wav,No.
+test_412_AUDIOchunk21.wav,Depressed. It is inferred from the fact that they are coughing and wheezing.
+test_412_AUDIOchunk4.wav,"No, the person is not depressed as indicated by their cheerful tone of voice"
+test_412_AUDIOchunk26.wav,"No, the person is not depressed."
+test_412_AUDIOchunk13.wav,"Yes, the person is depressed based on their speech patterns and tone of voice. They sound sad, hopeless, and unenthusiastic throughout the clip."
+test_412_AUDIOchunk14.wav,"Depressed. The acoustic features of the speech indicate sadness and low energy levels, which are typical of someone who is feeling down."

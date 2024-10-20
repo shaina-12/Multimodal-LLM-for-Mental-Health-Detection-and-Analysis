@@ -1,0 +1,35 @@
+File Name,output
+test_423_AUDIOchunk14.wav,Depressed.
+test_423_AUDIOchunk13.wav,"Yes, the speaker is depressed based on the low speech volume and slow speed."
+test_423_AUDIOchunk28.wav,"No, the person is not depressed"
+test_423_AUDIOchunk26.wav,"Yes, the speaker is depressed based on the speech content and emotional tone conveyed."
+test_423_AUDIOchunk21.wav,"Yes, the person is depressed based on the acoustic feature of their voice being soft, low-pitched and monotone."
+test_423_AUDIOchunk30.wav,"Yes, the person is sad."
+test_423_AUDIOchunk3.wav,"No, the person is not depressed based on the given information."
+test_423_AUDIOchunk4.wav,"No, the person is not depressed based on the given information"
+test_423_AUDIOchunk20.wav,"Yes, the person is sad."
+test_423_AUDIOchunk27.wav,Depressed
+test_423_AUDIOchunk29.wav,"Speech emotion score is 0. The  score ranges from -3 (very negative) to 3 (very positive), so the sentiment is neutral."
+test_423_AUDIOchunk12.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_423_AUDIOchunk15.wav,"Yes, the person is depressed"
+test_423_AUDIOchunk5.wav,"No, the person is not depressed based on the given information"
+test_423_AUDIOchunk2.wav,"No, the person is not depressed as indicated by their happy tone of voice."
+test_423_AUDIOchunk31.wav,"Yes, the speaker is happy in this audio."
+test_423_AUDIOchunk1.wav,Yes
+test_423_AUDIOchunk6.wav,"Yes, the person in this audio is happy and not depressed as indicated by the positive emotion of happiness expressed."
+test_423_AUDIOchunk8.wav,"No, the person is not depressed based on the given information and acoustic features of the speech in the audio clip. The tone of voice is neutral and there are no signs of sadness or despair."
+test_423_AUDIOchunk32.wav,"Yes, the person is depressed based on the acoustic features of their speech in this clip"
+test_423_AUDIOchunk24.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_423_AUDIOchunk23.wav,Depressed. The tone of voice is sad and monotone.
+test_423_AUDIOchunk18.wav,Yes.
+test_423_AUDIOchunk16.wav,Yes
+test_423_AUDIOchunk11.wav,"No, the speaker does not seem to be depressed based on the given speech content and emotional rating of the audio clip."
+test_423_AUDIOchunk34.wav,"No, the person is not depressed in this audio clip."
+test_423_AUDIOchunk9.wav,"Yes, the person is depressed"
+test_423_AUDIOchunk33.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_423_AUDIOchunk7.wav,Yes
+test_423_AUDIOchunk10.wav,"Yes, the person is depressed based on their speech pattern."
+test_423_AUDIOchunk17.wav,"Depressed. The acoustic features suggest it is low-pitched and muffled, which are common characteristics associated with depression."
+test_423_AUDIOchunk19.wav,Yes.
+test_423_AUDIOchunk22.wav,"No, the person is not depressed as indicated by their speech."
+test_423_AUDIOchunk25.wav,"Yes, the speaker is depressed."

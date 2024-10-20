@@ -1,0 +1,23 @@
+File Name,output
+test_670_AUDIOchunk21.wav,"No, the person is not depressed based on the speech."
+test_670_AUDIOchunk14.wav,Depressed.
+test_670_AUDIOchunk13.wav,"No, the person is not depressed based on the given acoustic features."
+test_670_AUDIOchunk5.wav,"No, the person is not depressed as indicated by their cheerful and lively speech."
+test_670_AUDIOchunk2.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_670_AUDIOchunk3.wav,"Yes, the person is depressed as indicated by their speech pattern"
+test_670_AUDIOchunk4.wav,"No, the person is not depressed based on the given information and acoustic features of their speech. They seem to be expressing enthusiasm and excitement for living in Los Angeles, which is a positive emotion associated with happiness and contentment."
+test_670_AUDIOchunk12.wav,"No, the person is not depressed as indicated by their speech content."
+test_670_AUDIOchunk15.wav,"Yes, the person is depressed based on their low and monotone speech in the audio."
+test_670_AUDIOchunk20.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_670_AUDIOchunk7.wav,"Yes, the person is depressed as indicated by their speech pattern."
+test_670_AUDIOchunk18.wav,"No, the person is not depressed based on their speech."
+test_670_AUDIOchunk16.wav,"No, the person in this audio is not depressed as there are no signs of sadness or hopelessness in their speech and tone. The speaker seems to be calm and composed."
+test_670_AUDIOchunk9.wav,No
+test_670_AUDIOchunk11.wav,"No, the person is not depressed based on their speech pattern."
+test_670_AUDIOchunk22.wav,"Yes, the person is depressed."
+test_670_AUDIOchunk8.wav,"No, the person is not depressed"
+test_670_AUDIOchunk10.wav,"Yes, the person is feeling guilty and has made a difficult decision."
+test_670_AUDIOchunk17.wav,"No, the person is not depressed as indicated by their positive emotional rating of 2"
+test_670_AUDIOchunk19.wav,"No, the person is happy."
+test_670_AUDIOchunk1.wav,"Yes, the person is sad"
+test_670_AUDIOchunk6.wav,"No, the person is not depressed"

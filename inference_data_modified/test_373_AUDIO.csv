@@ -1,0 +1,45 @@
+File Name,output
+test_373_AUDIOchunk2.wav,"Yes: if the person is depressed. No: if the person is not depressed. The speaker's tone and speech content suggest that they may be experiencing some level of sadness or disappointment, which could indicate depression. However, it is possible that their emotional state is unrelated to depression and simply reflective of their current mood or situation."
+test_373_AUDIOchunk5.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk18.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk16.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk11.wav,Yes
+test_373_AUDIOchunk24.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk23.wav,Yes
+test_373_AUDIOchunk40.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk32.wav,Yes: if the person is depressed
+test_373_AUDIOchunk35.wav,Yes: if the person shows symptoms of depression
+test_373_AUDIOchunk22.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression
+test_373_AUDIOchunk25.wav,Yes
+test_373_AUDIOchunk10.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk17.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk4.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk19.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk3.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk34.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk33.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk41.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk30.wav,Yes: if the person is depressed
+test_373_AUDIOchunk37.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk39.wav,Yes
+test_373_AUDIOchunk42.wav,Yes: The person shows symptoms of depression.
+test_373_AUDIOchunk28.wav,"Yes: if the person is depressed.
+No: if the person is not depressed."
+test_373_AUDIOchunk26.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk21.wav,Yes
+test_373_AUDIOchunk9.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk14.wav,Yes
+test_373_AUDIOchunk13.wav,Yes
+test_373_AUDIOchunk7.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk43.wav,Yes: The person seems to be depressed based on their speech.
+test_373_AUDIOchunk38.wav,Yes
+test_373_AUDIOchunk36.wav,Yes
+test_373_AUDIOchunk31.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk6.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk1.wav,Yes
+test_373_AUDIOchunk12.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_373_AUDIOchunk8.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk15.wav,Yes
+test_373_AUDIOchunk20.wav,Yes
+test_373_AUDIOchunk27.wav,Yes: if the person is depressed.
+test_373_AUDIOchunk29.wav,Yes: if the person is depressed. No: if the person is not depressed.

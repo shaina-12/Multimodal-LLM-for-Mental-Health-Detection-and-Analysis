@@ -1,0 +1,34 @@
+File Name,output
+test_334_AUDIOchunk22.wav,"Yes, the person in this audio is depressed as indicated by their slow speech speed and low-pitched voice"
+test_334_AUDIOchunk25.wav,"Yes, the person in this audio seems to be depressed based on their speech pattern and tone of voice."
+test_334_AUDIOchunk19.wav,Depressed
+test_334_AUDIOchunk10.wav,"Yes, the person is depressed"
+test_334_AUDIOchunk17.wav,"No, the person is not depressed based on the given information."
+test_334_AUDIOchunk1.wav,"No, the person is not depressed based on the sound of their voice and the content of the speech."
+test_334_AUDIOchunk6.wav,"Yes, the person is depressed."
+test_334_AUDIOchunk8.wav,"No, the person is not depressed as indicated by their cheerful tone of voice and positive attitude towards helping children in need"
+test_334_AUDIOchunk33.wav,"Yes, the person is."
+test_334_AUDIOchunk16.wav,"Yes, the person is sad"
+test_334_AUDIOchunk11.wav,Depressed
+test_334_AUDIOchunk18.wav,"Yes, the person is depressed based on the speech content and emotional rating of -2"
+test_334_AUDIOchunk24.wav,"Yes, the person is depressed based on the speech content and emotion conveyed by the speaker's voice. The slow speech speed and low volume also suggest sadness or melancholy. However, the exact level of depression can only be determined through further analysis and evaluation of other factors."
+test_334_AUDIOchunk23.wav,"Depressed, based on the tone of their voice and the content of the speech they are giving."
+test_334_AUDIOchunk32.wav,Spoken text: it left my dad drove down the driveway and it made noise and the deer ran off I was within petting difference distance of him and I wasn't too sure if I should have petted him or not but I was about to thank you bye
+test_334_AUDIOchunk9.wav,"No, the person is not depressed based on their speech and laughter. They seem to be happy and content with their life."
+test_334_AUDIOchunk7.wav,"No, the speaker is not depressed as indicated by his speech content and tone. He seems to be confident and enthusiastic about his work and enjoys interacting with others."
+test_334_AUDIOchunk31.wav,"No, the person is not depressed based on the given speech content."
+test_334_AUDIOchunk3.wav,"Yes, the person is depressed based on the acoustic feature of their speech."
+test_334_AUDIOchunk4.wav,"Yes, the speaker is sad, based on the emotional rating of -1"
+test_334_AUDIOchunk12.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_334_AUDIOchunk15.wav,"No, the person in this audio is not depressed as indicated by the positive tone."
+test_334_AUDIOchunk29.wav,Yes
+test_334_AUDIOchunk20.wav,"No, the person in this audio is not depressed."
+test_334_AUDIOchunk27.wav,"No, the person is not depressed"
+test_334_AUDIOchunk5.wav,"No, the person in this audio is not depressed as there are no indications of sadness or despair."
+test_334_AUDIOchunk2.wav,"Yes, the person is depressed as indicated by their low-pitched and monotone speech pattern."
+test_334_AUDIOchunk30.wav,"Yes, the person is depressed based on the slow speech speed and low volume of their voice in the audio."
+test_334_AUDIOchunk26.wav,"No, the person is not depressed based on the given information. The speech content and background sounds do not indicate any signs of sadness or emotional distress."
+test_334_AUDIOchunk21.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice."
+test_334_AUDIOchunk28.wav,"No, the person is not depressed."
+test_334_AUDIOchunk14.wav,Yes
+test_334_AUDIOchunk13.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."

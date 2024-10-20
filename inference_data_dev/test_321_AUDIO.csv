@@ -1,0 +1,29 @@
+File Name,output
+test_321_AUDIOchunk23.wav,"Yes, the person is depressed."
+test_321_AUDIOchunk24.wav,"Yes, the person is sad."
+test_321_AUDIOchunk11.wav,"No, the person is not depressed based on the given information"
+test_321_AUDIOchunk3.wav,Yes.
+test_321_AUDIOchunk16.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice."
+test_321_AUDIOchunk4.wav,"No, the person is not depressed based on the given acoustic features of their speech."
+test_321_AUDIOchunk18.wav,"Depressed, based on the description of the woman's voice as soft, melodic, high-pitched, and gentle."
+test_321_AUDIOchunk19.wav,"Yes, the person is depressed based on their speech."
+test_321_AUDIOchunk17.wav,"Yes, the woman is depressed based on her speech pattern and tone"
+test_321_AUDIOchunk5.wav,"No, the person is not depressed based on the given acoustic features and speech content"
+test_321_AUDIOchunk10.wav,No
+test_321_AUDIOchunk2.wav,"No, the person is not depressed based on the given information."
+test_321_AUDIOchunk25.wav,"Yes, the person is depressed based on their speech pattern."
+test_321_AUDIOchunk22.wav,"Yes, the person is depressed based on their speech."
+test_321_AUDIOchunk8.wav,No
+test_321_AUDIOchunk13.wav,"Yes, the person is depressed based on their speech and tone."
+test_321_AUDIOchunk1.wav,"No, the person is not depressed. They seem to be happy and excited about what they are doing, as indicated by their laughter and positive tone of voice."
+test_321_AUDIOchunk14.wav,"Yes, the speaker is depressed based on her speech content and tone of voice. The low volume and slow speed indicate a lack of energy and enthusiasm, which are common symptoms of depression."
+test_321_AUDIOchunk6.wav,"Yes, the woman is depressed based on her speech pattern and tone"
+test_321_AUDIOchunk21.wav,Yes
+test_321_AUDIOchunk26.wav,No
+test_321_AUDIOchunk28.wav,"No, the person is not depressed based on the given information."
+test_321_AUDIOchunk27.wav,"Yes, the person is depressed based on their speech."
+test_321_AUDIOchunk20.wav,Yes
+test_321_AUDIOchunk15.wav,"Depressed, as indicated by the speaker's tone of voice and speech content"
+test_321_AUDIOchunk7.wav,Yes
+test_321_AUDIOchunk12.wav,"Depressed, because they are talking to themselves in a sad tone"
+test_321_AUDIOchunk9.wav,"Yes, the person is depressed as indicated by their slow speech speed"

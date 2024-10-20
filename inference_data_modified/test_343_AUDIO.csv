@@ -1,0 +1,32 @@
+File Name,output
+test_343_AUDIOchunk12.wav,Yes.
+test_343_AUDIOchunk15.wav,"Yes: If the person is depressed, then there are signs of sadness and hopelessness in their speech, which can be inferred from the soft, low-pitched, and monotone tone."
+test_343_AUDIOchunk29.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_343_AUDIOchunk20.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_343_AUDIOchunk27.wav,Yes
+test_343_AUDIOchunk31.wav,No
+test_343_AUDIOchunk4.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk3.wav,No: if the person is not depressed.
+test_343_AUDIOchunk26.wav,"Yes: The man's speech sounds monotone and lacks enthusiasm, which could be indicative of depression or other emotional distress."
+test_343_AUDIOchunk21.wav,Yes
+test_343_AUDIOchunk28.wav,Yes: The person shows symptoms of depression based on their speech patterns.
+test_343_AUDIOchunk14.wav,Yes
+test_343_AUDIOchunk13.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk2.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk5.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk30.wav,"Yes: If the person is depressed. No: If the person is not depressed. The speaker seems to be expressing sadness and hopelessness, which are common symptoms of depression. Therefore, it can be inferred that the person might be depressed based on their speech content."
+test_343_AUDIOchunk8.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_343_AUDIOchunk6.wav,Yes
+test_343_AUDIOchunk1.wav,Yes
+test_343_AUDIOchunk22.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk25.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk19.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_343_AUDIOchunk10.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_343_AUDIOchunk17.wav,Yes
+test_343_AUDIOchunk7.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low energy and lack of interest in socializing with others, which could be reflected in their speech patterns."
+test_343_AUDIOchunk9.wav,Yes: If the person is depressed
+test_343_AUDIOchunk16.wav,"Yes: If the person is depressed, they may exhibit signs of sadness or hopelessness during their speech, which can be heard in the tone of their voice and the way they express themselves."
+test_343_AUDIOchunk11.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk18.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_343_AUDIOchunk24.wav,Yes
+test_343_AUDIOchunk23.wav,Yes

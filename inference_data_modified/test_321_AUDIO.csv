@@ -1,0 +1,29 @@
+File Name,output
+test_321_AUDIOchunk23.wav,Yes
+test_321_AUDIOchunk24.wav,Yes
+test_321_AUDIOchunk11.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_321_AUDIOchunk3.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_321_AUDIOchunk16.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_321_AUDIOchunk4.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_321_AUDIOchunk18.wav,Yes: The person shows symptoms of depression by mentioning feeling more relaxed and worries being lifted.
+test_321_AUDIOchunk19.wav,Yes: if the person is depressed. No: if the person is not depressed. It is hard to tell from just listening to them talk and it could be either way.
+test_321_AUDIOchunk17.wav,"Yes: The woman mentions that she can't afford to continue with therapy, which may indicate depression or financial difficulties."
+test_321_AUDIOchunk5.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_321_AUDIOchunk10.wav,Yes: if the person shows symptoms of depression.
+test_321_AUDIOchunk2.wav,Yes: If the person is depressed
+test_321_AUDIOchunk25.wav,"Yes: if the person is depressed. No: if the person is not depressed. The speaker can be inferred as depressed based on their speech content and tone. They mention feeling sad while listening to music and watching TV, which are activities that typically bring joy or relaxation for most people. Additionally, they express frustration with school work, which could indicate feelings of dissatisfaction or hopelessness. Overall, these factors suggest that the person may be experiencing depression. However, it's important to note that depression can manifest differently in different individuals, so further analysis would be needed to confirm the diagnosis. ©"
+test_321_AUDIOchunk22.wav,Yes: if the person is depressed.
+test_321_AUDIOchunk8.wav,Yes: if the person is depressed. No: if the person is not depressed. The speaker seems to be happy. This speech contains information on which side of the conflict the speaker stands.
+test_321_AUDIOchunk13.wav,Yes
+test_321_AUDIOchunk1.wav,"No: if the person is not depressed. Yes: if the person is depressed.  The speaker seems to be engaged in an activity that requires physical movements, which could indicate they are not depressed. However, it is possible that their tone or mannerisms suggest otherwise."
+test_321_AUDIOchunk14.wav,Yes: if the person is depressed.
+test_321_AUDIOchunk6.wav,Yes
+test_321_AUDIOchunk21.wav,Yes: The woman speaks softly and her voice sounds sad or melancholic.
+test_321_AUDIOchunk26.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_321_AUDIOchunk28.wav,"Yes: The woman's voice suggests that she may be feeling down or anxious about something, which could indicate depression. However, it's hard to say for sure without further context."
+test_321_AUDIOchunk27.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_321_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_321_AUDIOchunk15.wav,Yes
+test_321_AUDIOchunk7.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_321_AUDIOchunk12.wav,"Yes: The woman speaks softly and hesitantly, which could be a sign of depression."
+test_321_AUDIOchunk9.wav,Yes: if the person is depressed. No: if the person is not depressed.

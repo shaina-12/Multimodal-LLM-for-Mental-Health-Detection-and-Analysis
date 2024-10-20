@@ -1,0 +1,25 @@
+File Name,output
+test_408_AUDIOchunk3.wav,"No, the person is not depressed based on the given information."
+test_408_AUDIOchunk4.wav,"No, the person is happy."
+test_408_AUDIOchunk20.wav,"Yes, the person is depressed based on the acoustic features of her voice."
+test_408_AUDIOchunk12.wav,"No, the person is not depressed based on the given information."
+test_408_AUDIOchunk15.wav,"Yes, the person is depressed."
+test_408_AUDIOchunk5.wav,"No, the person is not depressed based on the given information"
+test_408_AUDIOchunk2.wav,Yes.
+test_408_AUDIOchunk14.wav,"Yes, the person in this audio is depressed based on their speech pattern."
+test_408_AUDIOchunk13.wav,"No, the person is not depressed based on the given information. The tone of her voice suggests a positive and cheerful mood."
+test_408_AUDIOchunk21.wav,"No, the person in this audio is not depressed. The tone of their voice suggests they are happy and engaged with the conversation. They also mention being interested in business, which indicates they are motivated and enthusiastic."
+test_408_AUDIOchunk19.wav,"No, the person is not depressed"
+test_408_AUDIOchunk10.wav,No
+test_408_AUDIOchunk17.wav,"Yes, the person in this audio seems to be depressed based on their monotone speech."
+test_408_AUDIOchunk22.wav,"No, the person in this audio is not depressed as there is no indication of sadness or despair in her speech pattern or tone. The woman sounds confident and positive about herself and her achievements."
+test_408_AUDIOchunk8.wav,"Yes, the person is depressed as indicated by their speech pattern."
+test_408_AUDIOchunk1.wav,Yes
+test_408_AUDIOchunk6.wav,"No, the woman is not depressed in this audio."
+test_408_AUDIOchunk24.wav,"No, the person is not depressed in this audio."
+test_408_AUDIOchunk23.wav,"No, the speaker is happy based on the given speech emotion and content."
+test_408_AUDIOchunk16.wav,"Yes, the speaker is sad, as indicated by the low pitch of her voice and the slow speech speed. The content of the speech also suggests a sense of loss or disappointment, which can be associated with depression. However, it's important to note that emotional states are complex and multifaceted, and there may be other factors contributing to the speaker's sadness."
+test_408_AUDIOchunk11.wav,Yes
+test_408_AUDIOchunk18.wav,"Yes, the person is depressed based on their speech patterns and tone of voice."
+test_408_AUDIOchunk7.wav,"Yes, the speaker is happy in this audio clip."
+test_408_AUDIOchunk9.wav,"Yes, the speaker is depressed based on the sad emotion expressed in their speech and the low volume of their voice while speaking."

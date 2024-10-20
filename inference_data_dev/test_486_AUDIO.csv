@@ -1,0 +1,24 @@
+File Name,output
+test_486_AUDIOchunk7.wav,"No, the person is not depressed as they laugh after saying 'I'm not depressed'."
+test_486_AUDIOchunk9.wav,Yes.
+test_486_AUDIOchunk14.wav,No
+test_486_AUDIOchunk13.wav,Yes
+test_486_AUDIOchunk21.wav,"No, the person is not depressed based on the given information"
+test_486_AUDIOchunk8.wav,"Yes, the person is depressed."
+test_486_AUDIOchunk1.wav,"Yes, the person in this audio seems to be depressed based on their speech pattern and tone of voice. The slow and monotonous speech with low volume suggests that they are feeling down or sad. Additionally, the background noise could indicate that they may be alone or isolated, which could contribute to feelings of loneliness and despair."
+test_486_AUDIOchunk6.wav,"No, the person is not depressed in this audio."
+test_486_AUDIOchunk20.wav,"Yes, the person is depressed in this audio."
+test_486_AUDIOchunk12.wav,"Yes, the person is sad."
+test_486_AUDIOchunk15.wav,"No, the speaker is not depressed based on the given information."
+test_486_AUDIOchunk23.wav,"No, the person is not depressed as indicated by their cheerful tone of voice and the fact that they are saying goodbye."
+test_486_AUDIOchunk18.wav,"No, the person is not depressed based on the given information"
+test_486_AUDIOchunk16.wav,"No, the speaker is not depressed as indicated by the speech content and emotional rating of 1 which is weakly positive."
+test_486_AUDIOchunk11.wav,"Yes, the speaker is depressed."
+test_486_AUDIOchunk5.wav,"No, the person is not depressed as they are talking to someone else and laughing."
+test_486_AUDIOchunk2.wav,"No, the person is not depressed based on their speech."
+test_486_AUDIOchunk10.wav,Yes
+test_486_AUDIOchunk17.wav,"Depressed. The woman's voice is soft and low-pitched, which is often associated with sadness and depression. Additionally, she speaks slowly and hesitantly, which can also indicate that she is feeling down."
+test_486_AUDIOchunk19.wav,"Yes, the person is depressed as indicated by their low-pitched and monotone speech with no enthusiasm."
+test_486_AUDIOchunk22.wav,Speech synthesizer: Speech
+test_486_AUDIOchunk3.wav,"Yes, the person in this audio seems to be depressed based on their tone and speech pattern. They are slow-paced and monotone, which suggests they may be feeling down or sad about something. However, it could also be due to other factors such as medication or medical conditions that affect mood and speech patterns. It's hard to say for sure without more context.  The  sound effect at 9.4s-9.5s is an example of an alarm clock, which can be associated with waking up early in the morning."
+test_486_AUDIOchunk4.wav,"No, the person is not depressed based on the speech content and tone. It sounds more like they are expressing their thoughts and opinions in an informal setting."

@@ -1,0 +1,38 @@
+File Name,output
+test_381_AUDIOchunk1.wav,"Yes, the person shows symptoms of depression."
+test_381_AUDIOchunk6.wav,"Yes, the person shows symptoms of depression based on their speech."
+test_381_AUDIOchunk29.wav,"Yes, the person shows symptoms of depression based on the speech content and tone of voice."
+test_381_AUDIOchunk8.wav,Yes
+test_381_AUDIOchunk27.wav,"Yes, the person shows symptoms of depression based on the speech content and tone, which are indicative of sadness and low mood."
+test_381_AUDIOchunk20.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone"
+test_381_AUDIOchunk15.wav,Yes
+test_381_AUDIOchunk12.wav,Yes
+test_381_AUDIOchunk31.wav,"Yes, the person shows symptoms of depression based on their speech patterns and low-pitched voice.  The speaker seems to have a monotone delivery with little variation in pitch, which is often associated with depression. Additionally, the slow speech speed suggests that the person may be struggling to articulate their thoughts clearly."
+test_381_AUDIOchunk36.wav,Yes
+test_381_AUDIOchunk13.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_381_AUDIOchunk14.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_381_AUDIOchunk21.wav,Yes
+test_381_AUDIOchunk9.wav,Yes
+test_381_AUDIOchunk26.wav,Yes
+test_381_AUDIOchunk7.wav,"Yes, the person shows symptoms of depression based on their speech."
+test_381_AUDIOchunk28.wav,"Yes, the person shows symptoms of depression based on their speech patterns."
+test_381_AUDIOchunk37.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice during the conversation"
+test_381_AUDIOchunk30.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_381_AUDIOchunk33.wav,"Yes, because the person mentions feeling sad and expressing their emotions."
+test_381_AUDIOchunk34.wav,Yes
+test_381_AUDIOchunk19.wav,"Yes, the person shows symptoms of depression based on their speech patterns."
+test_381_AUDIOchunk17.wav,Yes
+test_381_AUDIOchunk10.wav,"Yes, the person shows symptoms of depression based on their speech patterns and emotional responses described in the conversation. The speaker mentions feeling bad after an event and expresses concern for their mother's reaction, which are common indicators of depression. Therefore, the answer is 'Yes'.  The response time is 1.9s."
+test_381_AUDIOchunk25.wav,Yes
+test_381_AUDIOchunk22.wav,"Yes, the person shows symptoms of depression based on their speech patterns."
+test_381_AUDIOchunk3.wav,Yes
+test_381_AUDIOchunk4.wav,"Yes, the person shows symptoms of depression based on their speech patterns."
+test_381_AUDIOchunk35.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice. The low volume and monotone delivery suggest they may be feeling down or lacking energy. Additionally, the mention of singing karaoke suggests they are trying to find enjoyment despite their emotional state, which could indicate depression symptoms such as seeking pleasure through small things despite feeling down."
+test_381_AUDIOchunk32.wav,"Yes, the person shows symptoms of depression based on their speech content."
+test_381_AUDIOchunk5.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_381_AUDIOchunk2.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice."
+test_381_AUDIOchunk23.wav,"Yes, the person shows symptoms of depression based on their speech patterns and tone of voice. The speaker mentions feeling unhelped by therapy."
+test_381_AUDIOchunk24.wav,Yes
+test_381_AUDIOchunk11.wav,Yes
+test_381_AUDIOchunk16.wav,Yes
+test_381_AUDIOchunk18.wav,Yes

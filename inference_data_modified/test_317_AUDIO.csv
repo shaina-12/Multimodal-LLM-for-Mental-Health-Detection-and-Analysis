@@ -1,0 +1,28 @@
+File Name,output
+test_317_AUDIOchunk6.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_317_AUDIOchunk1.wav,Yes: if the person is depressed.
+test_317_AUDIOchunk23.wav,Yes.
+test_317_AUDIOchunk24.wav,Yes: if the person shows symptoms of depression
+test_317_AUDIOchunk8.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_317_AUDIOchunk11.wav,"Yes: The person seems to have some difficulty with their breathing, which could be a symptom of depression or anxiety. Additionally, they mention taking walks and doing yoga, which are common activities for people who suffer from these conditions. Therefore, we can infer that the person may be experiencing symptoms of depression or anxiety."
+test_317_AUDIOchunk16.wav,Yes.
+test_317_AUDIOchunk18.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_317_AUDIOchunk19.wav,Yes.
+test_317_AUDIOchunk17.wav,Yes: The woman seems to be expressing her emotions openly.
+test_317_AUDIOchunk10.wav,"Yes: If the person is depressed, they may express their feelings and emotions more openly and honestly than someone who is not depressed."
+test_317_AUDIOchunk25.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_317_AUDIOchunk9.wav,Yes: if the person is depressed.
+test_317_AUDIOchunk22.wav,Yes: If the person is depressed
+test_317_AUDIOchunk7.wav,Yes
+test_317_AUDIOchunk13.wav,Yes
+test_317_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_317_AUDIOchunk21.wav,"Yes: The woman seems to be expressing her feelings and emotions, which could indicate that she may be experiencing depression. However, it is important to note that this is only an inference based on the given information."
+test_317_AUDIOchunk26.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_317_AUDIOchunk4.wav,Yes: If the person is depressed. No: If the person is not depressed. The speaker's tone and content suggest that they may be experiencing depression or other negative emotions. They mention feeling overwhelmed by their surroundings and expressing frustration with their situation. This suggests that they may be struggling emotionally.
+test_317_AUDIOchunk3.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_317_AUDIOchunk2.wav,"Yes: If the person is depressed, they may express sadness or hopelessness during their speech, which can be heard as a low pitched voice with a monotone delivery. However, it is possible that the person is not depressed and simply has a naturally low-pitched voice or is speaking softly for other reasons."
+test_317_AUDIOchunk5.wav,Yes: If the person is depressed
+test_317_AUDIOchunk27.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that could be reflected in their speech."
+test_317_AUDIOchunk20.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low energy and lack of interest in socializing or activities that were previously enjoyable. No: If the person is not depressed, they are likely to have high energy levels and engage in social activities without any issues."
+test_317_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed. It is hard to tell from just this audio clip alone.
+test_317_AUDIOchunk12.wav,Yes: if the person is depressed. No: if the person is not depressed.

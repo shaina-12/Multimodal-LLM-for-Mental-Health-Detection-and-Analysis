@@ -1,0 +1,28 @@
+File Name,output
+test_433_AUDIOchunk6.wav,"Yes, the person is depressed based on their speech pattern and tone"
+test_433_AUDIOchunk12.wav,"Yes, the person is depressed."
+test_433_AUDIOchunk15.wav,"No, the person is not depressed based on their speech pattern and tone."
+test_433_AUDIOchunk1.wav,"Yes, the person is sad."
+test_433_AUDIOchunk8.wav,"No, the person is not depressed based on the given acoustic features of their speech and laughter. They seem to be happy and relaxed while speaking."
+test_433_AUDIOchunk20.wav,"Yes, the person is depressed based on the low and dull acoustic feature."
+test_433_AUDIOchunk27.wav,"No, the person is not depressed based on the given information"
+test_433_AUDIOchunk26.wav,Depressed
+test_433_AUDIOchunk21.wav,"No, the person is not depressed in this audio."
+test_433_AUDIOchunk9.wav,"No, the person is not depressed."
+test_433_AUDIOchunk14.wav,"Yes, the person is depressed based on their speech pattern."
+test_433_AUDIOchunk7.wav,Yes.
+test_433_AUDIOchunk13.wav,Yes
+test_433_AUDIOchunk22.wav,"Yes, the person is depressed based on the low and melancholic tone of their speech."
+test_433_AUDIOchunk25.wav,"No, the person is not depressed based on the given speech content."
+test_433_AUDIOchunk19.wav,"No, the person is not depressed as indicated by their speech."
+test_433_AUDIOchunk4.wav,"No, the person is not depressed as indicated by their cheerful tone and conversation with others."
+test_433_AUDIOchunk10.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_433_AUDIOchunk17.wav,"Yes, the person is depressed"
+test_433_AUDIOchunk3.wav,"Yes, the person is depressed as indicated by their speech pattern"
+test_433_AUDIOchunk16.wav,"Yes, the person is depressed."
+test_433_AUDIOchunk2.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_433_AUDIOchunk5.wav,"No, the person is not depressed based on the given information. The tone of their speech suggests they are calm and composed, which is not typically associated with depression."
+test_433_AUDIOchunk11.wav,"Yes, the person is depressed in this audio."
+test_433_AUDIOchunk18.wav,"No, the person is not depressed based on their speech patterns and tone."
+test_433_AUDIOchunk24.wav,"No, the person is not depressed based on their speech patterns"
+test_433_AUDIOchunk23.wav,"Yes, the person is depressed based on the acoustic feature of low-pitched and muffled breathing sound event."

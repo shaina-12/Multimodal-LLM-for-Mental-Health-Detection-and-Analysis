@@ -1,0 +1,25 @@
+File Name,output
+test_408_AUDIOchunk3.wav,Yes: If the person is depressed
+test_408_AUDIOchunk4.wav,Yes
+test_408_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_408_AUDIOchunk12.wav,Yes
+test_408_AUDIOchunk15.wav,Yes
+test_408_AUDIOchunk5.wav,Yes: if the person is depressed. No: if the person is not depressed. The speaker seems to be happy and content with their life.
+test_408_AUDIOchunk2.wav,Yes
+test_408_AUDIOchunk14.wav,Yes
+test_408_AUDIOchunk13.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_408_AUDIOchunk21.wav,Yes: if the person is depressed.
+test_408_AUDIOchunk19.wav,Yes
+test_408_AUDIOchunk10.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_408_AUDIOchunk17.wav,"Yes: if the person is depressed. No: if the person is not depressed. This is because the woman's speech sounds monotone and lacking emotion, which can be indicative of depression."
+test_408_AUDIOchunk22.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_408_AUDIOchunk8.wav,Yes: if the person is depressed.
+test_408_AUDIOchunk1.wav,Yes
+test_408_AUDIOchunk6.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low energy levels, lack of motivation, and difficulty concentrating."
+test_408_AUDIOchunk24.wav,"Yes: If the person is depressed, they may exhibit signs of sadness or hopelessness."
+test_408_AUDIOchunk23.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_408_AUDIOchunk16.wav,Yes
+test_408_AUDIOchunk11.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_408_AUDIOchunk18.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_408_AUDIOchunk7.wav,"Yes: if the person is depressed. No: if the person is not depressed. This is because the speaker mentions having a good time while traveling, which is often associated with positive emotions rather than depression. However, it could be possible that the speaker is hiding their true feelings or trying to put up a facade of happiness."
+test_408_AUDIOchunk9.wav,Yes: if the person is depressed.

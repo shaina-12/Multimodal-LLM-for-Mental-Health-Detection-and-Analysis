@@ -1,0 +1,39 @@
+File Name,output
+test_687_AUDIOchunk5.wav,"Yes: If the person shows symptoms of depression, such as sadness or hopelessness, they may be experiencing depression. Otherwise, no."
+test_687_AUDIOchunk2.wav,"Yes: if the person is depressed. No: if the person is not depressed. The speaker's tone and content suggest that they may be experiencing some level of sadness or frustration, which could indicate depression. However, it is possible that these emotions are being expressed for other reasons as well. It would require further analysis to determine whether the person is actually depressed based solely on the speech."
+test_687_AUDIOchunk37.wav,Yes.
+test_687_AUDIOchunk30.wav,Yes: if the person is depressed.
+test_687_AUDIOchunk28.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_687_AUDIOchunk21.wav,Yes: if the person is depressed. No: if the person is not depressed. This is because the speech content mentions feeling sad or depressed.
+test_687_AUDIOchunk26.wav,Yes: if the person is depressed.
+test_687_AUDIOchunk13.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_687_AUDIOchunk14.wav,"Yes: If the person is depressed, they may express negative emotions or have difficulty articulating their thoughts clearly."
+test_687_AUDIOchunk38.wav,Yes: if the person is depressed. No: if the person is not depressed. It is hard to tell from just this audio clip.
+test_687_AUDIOchunk31.wav,Yes
+test_687_AUDIOchunk36.wav,Yes
+test_687_AUDIOchunk3.wav,Yes.
+test_687_AUDIOchunk4.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_687_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_687_AUDIOchunk12.wav,Yes.
+test_687_AUDIOchunk27.wav,Yes: if the person is depressed.
+test_687_AUDIOchunk20.wav,Yes: if the person is depressed.
+test_687_AUDIOchunk29.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_687_AUDIOchunk18.wav,Yes
+test_687_AUDIOchunk11.wav,Yes
+test_687_AUDIOchunk16.wav,Yes: This question requires more context to determine whether or not the person shows symptoms of depression based on the conversation heard in the audio clip.
+test_687_AUDIOchunk23.wav,"Yes: If the person is depressed, they may have difficulty expressing their emotions or may be more likely to experience negative emotions such as anger or sadness. They may also have trouble focusing or making decisions."
+test_687_AUDIOchunk24.wav,Yes
+test_687_AUDIOchunk35.wav,Yes: The person shows symptoms of depression based on their speech patterns.
+test_687_AUDIOchunk32.wav,Yes
+test_687_AUDIOchunk7.wav,"Yes: If the person is depressed, there are signs of disfunctionality and frustration in their speech that suggest they may be experiencing symptoms of depression."
+test_687_AUDIOchunk9.wav,"Yes: If the person is depressed, they may express their feelings and emotions more openly and honestly than someone who is not depressed. They may also be more likely to seek help or support from others during difficult times. However, it is important to note that depression can manifest itself in many different ways, so it is possible for someone to exhibit these behaviors without being clinically depressed."
+test_687_AUDIOchunk25.wav,Yes: if the person is depressed
+test_687_AUDIOchunk22.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_687_AUDIOchunk17.wav,"Yes: if the person is depressed. No: if the person is not depressed. The speaker seems to be expressing concern and empathy towards someone who may be struggling with depression, but there is no clear indication that the person is actually experiencing it themselves. This suggests that the person may be trying to help someone else through difficult times rather than dealing with their own emotional struggles."
+test_687_AUDIOchunk10.wav,Yes.
+test_687_AUDIOchunk19.wav,Yes
+test_687_AUDIOchunk8.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_687_AUDIOchunk1.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression
+test_687_AUDIOchunk6.wav,Yes
+test_687_AUDIOchunk33.wav,Yes: if the person is depressed.
+test_687_AUDIOchunk34.wav,Yes: if the person is depressed.

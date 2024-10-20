@@ -1,0 +1,34 @@
+File Name,output
+test_657_AUDIOchunk19.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk10.wav,Yes: If the person shows symptoms of depression.
+test_657_AUDIOchunk17.wav,Yes: if the person is depressed.
+test_657_AUDIOchunk22.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk25.wav,Yes: if the person is depressed.
+test_657_AUDIOchunk4.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_657_AUDIOchunk3.wav,Yes: if the person is depressed. No: if the person is not depressed. It is hard to tell based solely on speech.
+test_657_AUDIOchunk33.wav,Yes: if the person is depressed. No: if the person is not depressed. It's hard to tell from just this audio clip.
+test_657_AUDIOchunk24.wav,Yes: if the person is depressed. No: if the person is not depressed. It is hard to tell from just listening to them talk and ask questions about their behavior.
+test_657_AUDIOchunk23.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk16.wav,Yes.
+test_657_AUDIOchunk11.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_657_AUDIOchunk18.wav,Yes: If the person is depressed
+test_657_AUDIOchunk2.wav,Yes
+test_657_AUDIOchunk32.wav,Yes
+test_657_AUDIOchunk5.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk6.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk1.wav,Yes:
+test_657_AUDIOchunk31.wav,"Yes: The speaker mentions being proud of serving their country, which could be a sign of depression if they are feeling guilty or ashamed about something else in their life."
+test_657_AUDIOchunk8.wav,Yes
+test_657_AUDIOchunk29.wav,"Yes: If the person is depressed, they may have a monotone and lackluster tone to their voice, which can be heard in the clip. No: If the person is not depressed, they will likely have a more lively and expressive tone to their voice, which is not present in the clip."
+test_657_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk27.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that are reflected in their speech patterns."
+test_657_AUDIOchunk12.wav,Yes: if the person is depressed.
+test_657_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk9.wav,Yes:
+test_657_AUDIOchunk30.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_657_AUDIOchunk7.wav,Yes.
+test_657_AUDIOchunk14.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_657_AUDIOchunk13.wav,Yes
+test_657_AUDIOchunk26.wav,Yes
+test_657_AUDIOchunk21.wav,Yes
+test_657_AUDIOchunk28.wav,Yes

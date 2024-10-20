@@ -1,0 +1,19 @@
+File Name,output
+test_473_AUDIOchunk7.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_473_AUDIOchunk9.wav,Yes
+test_473_AUDIOchunk13.wav,Yes: If the person is depressed
+test_473_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_473_AUDIOchunk8.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_473_AUDIOchunk6.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_473_AUDIOchunk1.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_473_AUDIOchunk15.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_473_AUDIOchunk12.wav,Yes
+test_473_AUDIOchunk18.wav,"Yes: If the person is depressed, they may exhibit signs of sadness or hopelessness during their speech, which can be heard as a low and monotone voice. No: If the person is not depressed, they will likely have a more upbeat and cheerful tone to their speech, which can be heard as a lively and energetic voice."
+test_473_AUDIOchunk11.wav,"Yes: if the person is depressed. No: if the person is not depressed. This is because the person mentions feeling good and being able to yawn without any negative emotions or feelings associated with it, which are common symptoms of depression."
+test_473_AUDIOchunk16.wav,Yes
+test_473_AUDIOchunk2.wav,Yes: The woman sounds sad or melancholic at times.
+test_473_AUDIOchunk5.wav,"Yes: If the person is depressed. No: If the person is not depressed. It is hard to tell from just listening to them talk and laugh with others. However, there are no indications that they are depressed or not depressed based on the given information."
+test_473_AUDIOchunk17.wav,Yes.
+test_473_AUDIOchunk10.wav,Yes
+test_473_AUDIOchunk4.wav,Yes: if the person shows symptoms of depression
+test_473_AUDIOchunk3.wav,Yes

@@ -1,0 +1,33 @@
+File Name,output
+test_336_AUDIOchunk25.wav,Yes.
+test_336_AUDIOchunk22.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_336_AUDIOchunk19.wav,Yes
+test_336_AUDIOchunk17.wav,Yes
+test_336_AUDIOchunk10.wav,Yes
+test_336_AUDIOchunk1.wav,Yes: If the person shows symptoms of depression.
+test_336_AUDIOchunk6.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low energy and difficulty concentrating that are reflected in their speech."
+test_336_AUDIOchunk8.wav,Yes: if the person is depressed.
+test_336_AUDIOchunk11.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_336_AUDIOchunk16.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that are reflected in their speech patterns. No: If the person is not depressed, they may have more positive and upbeat speech patterns that reflect their emotional state."
+test_336_AUDIOchunk18.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_336_AUDIOchunk23.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low energy and lack of motivation, which are present in the audio clip. No: If the person is not depressed, they would likely have more energy and enthusiasm for the conversation, which is not evident from the audio clip."
+test_336_AUDIOchunk24.wav,Yes: if the person is depressed
+test_336_AUDIOchunk9.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_336_AUDIOchunk32.wav,"Yes: If the person is depressed, they may express their feelings and emotions more openly or have difficulty controlling their speech."
+test_336_AUDIOchunk7.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_336_AUDIOchunk31.wav,Yes: If the person is depressed
+test_336_AUDIOchunk3.wav,"Yes: If the person is depressed, they may exhibit signs of sadness or hopelessness that are reflected in their speech and tone."
+test_336_AUDIOchunk4.wav,Yes: if the person is depressed. No: if the person is not depressed. It is hard to tell from just listening to them talk and it could be either way.
+test_336_AUDIOchunk15.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that are reflected in their speech patterns. No: If the person is not depressed, they may have more positive emotions and express themselves differently in their speech patterns."
+test_336_AUDIOchunk12.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_336_AUDIOchunk29.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_336_AUDIOchunk27.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_336_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_336_AUDIOchunk5.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_336_AUDIOchunk2.wav,Yes
+test_336_AUDIOchunk30.wav,Yes
+test_336_AUDIOchunk21.wav,Yes: If the person is depressed
+test_336_AUDIOchunk26.wav,Yes
+test_336_AUDIOchunk28.wav,Yes: if the person is depressed.
+test_336_AUDIOchunk13.wav,Yes: if the person is depressed.
+test_336_AUDIOchunk14.wav,"Yes: if the person is depressed. No: if the person is not depressed. It's hard to tell from just listening to them talk, but it seems like they might be feeling down or sad based on their tone and words used throughout the clip."

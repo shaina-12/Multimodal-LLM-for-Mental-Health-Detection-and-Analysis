@@ -1,0 +1,33 @@
+File Name,output
+test_442_AUDIOchunk31.wav,"Yes, the person is depressed as indicated by their speech and tone of voice being sad."
+test_442_AUDIOchunk3.wav,"No, the person is not depressed as indicated by their tone of voice."
+test_442_AUDIOchunk4.wav,"No, the person in this audio is not depressed as it is a normal human conversation with no signs of sadness or despair in their voice tone or speech patterns. The content of the conversation also does not suggest any negative emotions like anger or frustration."
+test_442_AUDIOchunk29.wav,No
+test_442_AUDIOchunk20.wav,"No, the person in this audio is not depressed as there are no indications of sadness or despair in their speech."
+test_442_AUDIOchunk27.wav,"Yes, the person is depressed."
+test_442_AUDIOchunk12.wav,"No, the person is not depressed as indicated by their cheerful and upbeat tone of voice"
+test_442_AUDIOchunk15.wav,"No, the person is not depressed"
+test_442_AUDIOchunk5.wav,"Yes, the person is sad, based on the acoustic features described."
+test_442_AUDIOchunk2.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_442_AUDIOchunk30.wav,"Depressed, because they are talking about their problems with a low-energy tone"
+test_442_AUDIOchunk14.wav,"Yes, the speaker is sad"
+test_442_AUDIOchunk13.wav,Depressed.
+test_442_AUDIOchunk26.wav,"Yes, the person is depressed as indicated by their speech."
+test_442_AUDIOchunk21.wav,Depressed
+test_442_AUDIOchunk28.wav,"Yes, the person is depressed based on their speech pattern and tone of voice. The slow and monotonous speech indicates a lack of energy and enthusiasm, while the low-pitched and dull tone suggests sadness or disappointment. These characteristics are commonly associated with depression symptoms such as lethargy and hopelessness. However, it's important to note that these features can also be present in individuals who are not necessarily depressed but may have other medical conditions affecting their mood or cognitive functioning. Therefore, further evaluation by a mental health professional is necessary for accurate diagnosis and treatment."
+test_442_AUDIOchunk19.wav,No
+test_442_AUDIOchunk10.wav,No
+test_442_AUDIOchunk17.wav,"Yes, the person is depressed"
+test_442_AUDIOchunk22.wav,Depressed
+test_442_AUDIOchunk25.wav,"Yes, the speaker is depressed based on the speech content and emotional rating of -2. The pitch is very low (<100 Hz) among all people, and it is relatively low (95-120 Hz) for a male speaker, which indicates sadness and melancholy."
+test_442_AUDIOchunk1.wav,"Yes, the person is depressed based on their speech pattern and tone"
+test_442_AUDIOchunk6.wav,"Yes, the person is depressed as indicated by the low-pitched and slow speech."
+test_442_AUDIOchunk8.wav,"Speech synthesizer, Speech synthesis,"
+test_442_AUDIOchunk24.wav,Yes.
+test_442_AUDIOchunk23.wav,"Yes, the person is sad"
+test_442_AUDIOchunk16.wav,"Yes, the speaker is depressed."
+test_442_AUDIOchunk11.wav,"No, the person is not depressed based on their speech patterns"
+test_442_AUDIOchunk18.wav,"Yes, the speaker is depressed as indicated by his speech content."
+test_442_AUDIOchunk32.wav,"Yes, the person is depressed."
+test_442_AUDIOchunk9.wav,"No, the speaker does not seem to be depressed based on the given information about their speech content and volume."
+test_442_AUDIOchunk7.wav,Yes

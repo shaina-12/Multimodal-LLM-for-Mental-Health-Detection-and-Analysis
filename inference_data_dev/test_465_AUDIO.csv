@@ -1,0 +1,43 @@
+File Name,output
+test_465_AUDIOchunk7.wav,Depressed
+test_465_AUDIOchunk22.wav,"Yes, the speaker is depressed according to his speech content and low pitched voice which are indicative of sadness and melancholy."
+test_465_AUDIOchunk9.wav,"No, the person is not depressed based on the given information"
+test_465_AUDIOchunk25.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_465_AUDIOchunk10.wav,Yes.
+test_465_AUDIOchunk17.wav,"No, the speaker does not seem to be depressed based on his speech patterns and content."
+test_465_AUDIOchunk19.wav,"Speech sentiment score is 1. The  score ranges from -3 (very negative) to 3 (very positive), so the sentiment is positive. As per the speaker's speech content, it can be inferred that he is not depressed."
+test_465_AUDIOchunk34.wav,"Yes, the speaker is depressed"
+test_465_AUDIOchunk33.wav,"No, the person in this audio does not seem to be depressed as they are expressing their thoughts and opinions clearly without any signs of sadness or despair."
+test_465_AUDIOchunk18.wav,"No, the person is not depressed as indicated by their tone of voice"
+test_465_AUDIOchunk16.wav,Depressed.
+test_465_AUDIOchunk11.wav,"No, the speaker is not depressed based on the given information about his speech content and tone."
+test_465_AUDIOchunk8.wav,Yes
+test_465_AUDIOchunk24.wav,"No, the person is not depressed as indicated by their speech content and tone. The speaker seems to be happy and excited about their experiences during the party."
+test_465_AUDIOchunk23.wav,Yes
+test_465_AUDIOchunk1.wav,Depressed
+test_465_AUDIOchunk6.wav,"Yes, the speaker is sad"
+test_465_AUDIOchunk32.wav,"Yes, the person is depressed as they are talking about wanting to die and feeling hopeless."
+test_465_AUDIOchunk35.wav,"Spoken text: Fuck up more even. Yeah, make more mistakes. Because the only way to be a better person is to make hella mistakes. At least that's my reckless mind state. Like, yo, if you're going to fuck up, fuck up hard because you'll learn more from it. What do they say? Experience is the best professor. You know what I'm saying? That's basically what it is. That's how I jive. You know what I mean? What are you most proud of in your life?
+
+### Response:
+Depressed"
+test_465_AUDIOchunk38.wav,"Yes, the person is depressed as they are talking about their sadness and loneliness"
+test_465_AUDIOchunk36.wav,Yes
+test_465_AUDIOchunk31.wav,"Yes, the person is depressed."
+test_465_AUDIOchunk12.wav,Yes
+test_465_AUDIOchunk15.wav,"No, the person is not depressed as indicated by their speech pattern and tone which are cheerful."
+test_465_AUDIOchunk20.wav,"No, the person is not depressed as they are laughing and talking."
+test_465_AUDIOchunk27.wav,"No, the person is not depressed based on the speech content and tone"
+test_465_AUDIOchunk5.wav,"Yes, the speaker is depressed based on his speech content and low volume."
+test_465_AUDIOchunk29.wav,"Yes, the person is depressed."
+test_465_AUDIOchunk2.wav,"No, the person is not depressed based on the given information."
+test_465_AUDIOchunk30.wav,"No, the person is not depressed based on their speech patterns"
+test_465_AUDIOchunk37.wav,"No, the speaker is not depressed"
+test_465_AUDIOchunk39.wav,"No, the person in this audio is not depressed."
+test_465_AUDIOchunk3.wav,"No, the person is not depressed."
+test_465_AUDIOchunk4.wav,"Yes, the speaker is depressed as indicated by their speech content."
+test_465_AUDIOchunk28.wav,"Yes, the speaker is not depressed according to the given information. The speech content does not indicate any signs of depression. It seems like the speaker is happy with their current lifestyle and doesn't want to make any significant changes."
+test_465_AUDIOchunk26.wav,"No, the person is not depressed as indicated by their speech content being positive and upbeat."
+test_465_AUDIOchunk21.wav,"Yes, the person is depressed. This can be inferred based on the low-pitched and melancholic tone of their speech. The slow speed also suggests a lack of energy and enthusiasm, which are common symptoms of depression. Additionally, the mention of wanting to erase memories indicates a desire for escape or forgetting painful experiences."
+test_465_AUDIOchunk14.wav,"Yes, the speaker is depressed as mentioned in the speech content"
+test_465_AUDIOchunk13.wav,"Yes, the person is sad because of what happened to him during his visit to the bar"

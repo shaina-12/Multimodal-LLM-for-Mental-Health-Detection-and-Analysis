@@ -1,0 +1,30 @@
+File Name,output
+test_331_AUDIOchunk22.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_331_AUDIOchunk25.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness, hopelessness, and lack of energy that are evident from their speech patterns."
+test_331_AUDIOchunk19.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_331_AUDIOchunk7.wav,Yes
+test_331_AUDIOchunk9.wav,Yes: if the person is depressed.
+test_331_AUDIOchunk10.wav,Yes: if the person is depressed.
+test_331_AUDIOchunk17.wav,"If the person is depressed, then yes; otherwise no. The speech content and background sounds suggest that the person may be experiencing some level of sadness or frustration, but it's difficult to determine whether they are clinically depressed without further contextual information. However, there is no clear indication of depression in the given audio clip."
+test_331_AUDIOchunk16.wav,Yes
+test_331_AUDIOchunk8.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_331_AUDIOchunk11.wav,Yes: if the person is depressed.
+test_331_AUDIOchunk6.wav,Yes
+test_331_AUDIOchunk18.wav,Yes
+test_331_AUDIOchunk1.wav,Yes
+test_331_AUDIOchunk24.wav,Yes: if the person shows symptoms of depression. No: if the person doesn't show symptoms of depression.
+test_331_AUDIOchunk23.wav,Yes:
+test_331_AUDIOchunk12.wav,Yes
+test_331_AUDIOchunk15.wav,Yes
+test_331_AUDIOchunk2.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_331_AUDIOchunk5.wav,Yes
+test_331_AUDIOchunk29.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that are reflected in their speech patterns."
+test_331_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_331_AUDIOchunk27.wav,Yes: If the person shows symptoms of depression.
+test_331_AUDIOchunk26.wav,Yes: if the person shows symptoms of depression.
+test_331_AUDIOchunk21.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_331_AUDIOchunk28.wav,Yes
+test_331_AUDIOchunk4.wav,Yes: if the person is depressed.
+test_331_AUDIOchunk3.wav,Yes
+test_331_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_331_AUDIOchunk13.wav,Yes: if the person is depressed. No: if the person is not depressed.

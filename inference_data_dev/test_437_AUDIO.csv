@@ -1,0 +1,30 @@
+File Name,output
+test_437_AUDIOchunk2.wav,"No, the person is not depressed as indicated by their cheerful tone of voice while speaking on the phone."
+test_437_AUDIOchunk5.wav,"No, the person is not depressed based on the given information. The speech content does not indicate any signs of depression. However, it could be inferred that the person might have been feeling nostalgic while talking about their past travel experiences."
+test_437_AUDIOchunk16.wav,"No, the person is not depressed based on their speech."
+test_437_AUDIOchunk11.wav,"Yes, the person is depressed."
+test_437_AUDIOchunk18.wav,"Yes, the person is depressed based on their speech pattern and tone"
+test_437_AUDIOchunk24.wav,"Yes, the person is sad and dejected based on their speech characteristics of low volume and slow speed."
+test_437_AUDIOchunk23.wav,No.
+test_437_AUDIOchunk4.wav,"Yes, the person is depressed based on their speech pattern."
+test_437_AUDIOchunk3.wav,No.
+test_437_AUDIOchunk22.wav,"Speech synthesizer, Speech synthesis"
+test_437_AUDIOchunk25.wav,"No, the person in this audio is generally a pretty happy type person"
+test_437_AUDIOchunk19.wav,"Yes, the person is depressed based on their speech pattern."
+test_437_AUDIOchunk10.wav,"Yes, the person is depressed based on the low-pitched and melancholic tone of their voice in this clip"
+test_437_AUDIOchunk17.wav,Depressed
+test_437_AUDIOchunk26.wav,Spoken text: a festival where they have all these book authors and they have food demonstrations and seminars and all kinds of books available to look at and there's lots of food and a lot of authors signing books and things.
+test_437_AUDIOchunk21.wav,"No, the person is not depressed as they are talking."
+test_437_AUDIOchunk28.wav,"Yes, the person is depressed based on their speech content and tone."
+test_437_AUDIOchunk14.wav,"Spoken prompt: Is the person in this audio depressed or not? Give me the answer in one word. ANSWER: Yes. This speech contains information related to a topic, which suggests it is informative or explanatory. The speaker's tone is low and slow, indicating seriousness or importance. The content is about discovering something negative about teaching K-12, which could be seen as sad or disappointing. Therefore, the overall emotion conveyed by the speech can be considered as sad"
+test_437_AUDIOchunk13.wav,"No, the person is not depressed as they are talking."
+test_437_AUDIOchunk9.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice. They are talking slowly and monotonously which is typical for people who are depressed."
+test_437_AUDIOchunk7.wav,No
+test_437_AUDIOchunk12.wav,"Yes, the person is sad"
+test_437_AUDIOchunk15.wav,Spoken prompt: Is the person in this audio depressed or not?
+test_437_AUDIOchunk29.wav,"Yes, the person is depressed based on their speech."
+test_437_AUDIOchunk20.wav,"Yes, the person is depressed based on their speech."
+test_437_AUDIOchunk27.wav,"Yes, the person is depressed based on their speech pattern and tone"
+test_437_AUDIOchunk6.wav,No
+test_437_AUDIOchunk1.wav,"Yes, the person is depressed as indicated by their speech."
+test_437_AUDIOchunk8.wav,"Yes, the person is depressed based on their speech."

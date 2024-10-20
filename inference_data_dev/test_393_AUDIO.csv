@@ -1,0 +1,7 @@
+File Name,output
+test_393_AUDIOchunk18.wav,"Yes, the person is depressed based on their speech content."
+test_393_AUDIOchunk16.wav,"No, the person is not depressed based on the given acoustic features of their speech"
+test_393_AUDIOchunk11.wav,"No, the person is not depressed as they are talking normally."
+test_393_AUDIOchunk4.wav,"No, the person is not depressed based on the given information. The speech content and background sounds suggest a normal conversation between two individuals who are engaged in a discussion about their careers and interests. There is no indication of sadness or despair."
+test_393_AUDIOchunk3.wav,"No, the person in this audio is not depressed. The tone and content of their speech suggest they are happy and engaged with what they are saying."
+test_393_AUDIOchunk2.wav,"No, the person is not depressed based on the speech content and background sounds heard in the audio clip."

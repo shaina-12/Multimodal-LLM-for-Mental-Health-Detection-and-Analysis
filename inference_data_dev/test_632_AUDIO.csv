@@ -1,0 +1,40 @@
+File Name,output
+test_632_AUDIOchunk33.wav,Yes
+test_632_AUDIOchunk34.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice."
+test_632_AUDIOchunk9.wav,"No, the person in this audio is not depressed. It can be inferred from the tone of her voice that she is happy and excited."
+test_632_AUDIOchunk25.wav,"Yes, the person is saddened"
+test_632_AUDIOchunk22.wav,"Yes, the speaker is sad as she says 'I was really sad'."
+test_632_AUDIOchunk7.wav,"No, the person in this audio does not seem to be depressed based on her tone and speech patterns. She seems cheerful and upbeat throughout the clip."
+test_632_AUDIOchunk17.wav,"No, the person is not depressed based on the given information about their speech pattern and tone.  The woman sounds happy and excited.  She is also talking with someone else, so she is likely not alone."
+test_632_AUDIOchunk10.wav,"Yes, the speaker is depressed based on her speech content and tone."
+test_632_AUDIOchunk19.wav,"No, the person is not depressed as indicated by their speech content and tone"
+test_632_AUDIOchunk35.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice."
+test_632_AUDIOchunk32.wav,Yes
+test_632_AUDIOchunk18.wav,"No, the speaker is not depressed as indicated by her speech content and emotional rating of 2."
+test_632_AUDIOchunk11.wav,"No, the speaker is not depressed as indicated by the speech content and emotional rating of 1 which is weakly positive towards the end of the speech."
+test_632_AUDIOchunk16.wav,"Spoken text: four years but I still visit them almost every other weekend. We go out to dinner and then I hang out with my mom. We have our shopping trips and spa days once in a while so we get to bond. So I think I have a pretty close relationship with my family. Most importantly my mom. She's like almost like my best friend. Sometimes when I'm feeling tense I turn on the TV. And she's always there for me. And I know that if I ever need her, she will be there for me. And I love her very much. And I hope that you guys can see how much I love her."
+test_632_AUDIOchunk23.wav,"No, the speaker does not seem depressed based on her speech content."
+test_632_AUDIOchunk6.wav,"No, the person is not depressed"
+test_632_AUDIOchunk24.wav,"No, the speaker does not seem to be depressed based on the given speech characteristics"
+test_632_AUDIOchunk1.wav,"No, the person is not depressed as they are talking and laughing"
+test_632_AUDIOchunk8.wav,"No, the person in this audio is not depressed."
+test_632_AUDIOchunk15.wav,"Yes, the speaker is depressed based on her speech content."
+test_632_AUDIOchunk12.wav,"Yes, the person is depressed based on the soft and low-pitched tone of speech."
+test_632_AUDIOchunk2.wav,"Yes, the person in this audio is depressed based on their speech."
+test_632_AUDIOchunk27.wav,No.
+test_632_AUDIOchunk5.wav,"No, the person is not depressed as indicated by their speech."
+test_632_AUDIOchunk20.wav,"Yes, the person is depressed based on the speech content and background sounds of crying."
+test_632_AUDIOchunk29.wav,"Yes, the person is depressed."
+test_632_AUDIOchunk38.wav,Yes
+test_632_AUDIOchunk31.wav,"Yes, the person is sad"
+test_632_AUDIOchunk36.wav,Yes.
+test_632_AUDIOchunk28.wav,Yes
+test_632_AUDIOchunk4.wav,"Yes, the person is depressed based on their speech pattern and tone of voice. They sound sad and hopeless about their situation."
+test_632_AUDIOchunk21.wav,"Speech sentiment score is 0. The  score ranges from -3 (very negative) to 3 (very positive), so the sentiment is neutral."
+test_632_AUDIOchunk3.wav,"Yes, the person is sad and possibly depressed based on their speech patterns."
+test_632_AUDIOchunk26.wav,"Spoken text: but I think once I got the acceptance letter from the city, I knew that I wanted to go there just right away. So I had to decide between being with my boyfriend and being complacent and kind of comfortable in California versus venturing out into different cities, different states, different people, different environments, and be in Massachusetts. And I ended up deciding with..."
+test_632_AUDIOchunk13.wav,"Yes, the person is depressed based on their speech. They mention feeling like they don't have time to do anything, which suggests a lack of motivation and energy."
+test_632_AUDIOchunk14.wav,"Yes, the speaker is happy"
+test_632_AUDIOchunk37.wav,"No, the person is not depressed as they are talking about their recent hike and enjoying it."
+test_632_AUDIOchunk30.wav,Yes
+test_632_AUDIOchunk39.wav,"Yes, the person is sad."

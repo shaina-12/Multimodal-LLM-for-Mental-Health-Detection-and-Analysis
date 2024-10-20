@@ -1,0 +1,35 @@
+File Name,output
+test_468_AUDIOchunk30.wav,Yes
+test_468_AUDIOchunk28.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_468_AUDIOchunk26.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_468_AUDIOchunk21.wav,Yes
+test_468_AUDIOchunk9.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_468_AUDIOchunk14.wav,Yes: if the person shows symptoms of depression
+test_468_AUDIOchunk13.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_468_AUDIOchunk7.wav,"Spoken text: saw British Columbia and boy was it gorgeous. Just very lush, beautiful trees, the ocean was right there, people were great, it was just a fun trip all around. Nice. What's one of your most memorable experiences? One of my most memorable experiences was probably the trip we took.
+
+Copy:"
+test_468_AUDIOchunk31.wav,"Yes: The speaker mentions feeling proud about graduating and going for an MBA, which could indicate that they are experiencing some level of satisfaction or happiness."
+test_468_AUDIOchunk6.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_468_AUDIOchunk1.wav,Yes
+test_468_AUDIOchunk12.wav,Yes: if the person is depressed.
+test_468_AUDIOchunk8.wav,Yes
+test_468_AUDIOchunk15.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_468_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_468_AUDIOchunk27.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_468_AUDIOchunk29.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_468_AUDIOchunk2.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression.
+test_468_AUDIOchunk5.wav,Yes: if the person shows symptoms of depression.
+test_468_AUDIOchunk18.wav,Yes: if the person is depressed.
+test_468_AUDIOchunk16.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_468_AUDIOchunk11.wav,Yes
+test_468_AUDIOchunk24.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_468_AUDIOchunk23.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_468_AUDIOchunk32.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness during their conversation."
+test_468_AUDIOchunk22.wav,Yes: if the person is depressed.
+test_468_AUDIOchunk25.wav,Yes
+test_468_AUDIOchunk10.wav,Yes
+test_468_AUDIOchunk17.wav,Yes
+test_468_AUDIOchunk4.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_468_AUDIOchunk19.wav,Yes: if the person shows symptoms of depression. No: if the person doesn't show symptoms of depression.
+test_468_AUDIOchunk3.wav,Yes: if the person is depressed. No: if the person is not depressed.

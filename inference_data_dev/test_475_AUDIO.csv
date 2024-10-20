@@ -1,0 +1,21 @@
+File Name,output
+test_475_AUDIOchunk2.wav,"No, the person is not depressed as indicated by their cheerful tone of voice and positive attitude towards learning about people. The speech content also suggests that they are interested in socializing and making new friends, which is not typically associated with depression. Therefore, it can be inferred that the person in this audio clip is not depressed"
+test_475_AUDIOchunk19.wav,Depressed is the answer
+test_475_AUDIOchunk5.wav,"Yes, the person is depressed."
+test_475_AUDIOchunk10.wav,Yes.
+test_475_AUDIOchunk17.wav,Yes.
+test_475_AUDIOchunk16.wav,"No, the person is happy."
+test_475_AUDIOchunk11.wav,"No, the person is not depressed based on the speech content and tone of voice."
+test_475_AUDIOchunk4.wav,"Yes, the person is depressed based on their speech pattern and tone."
+test_475_AUDIOchunk3.wav,"Yes, the person is depressed."
+test_475_AUDIOchunk18.wav,No
+test_475_AUDIOchunk9.wav,Yes.
+test_475_AUDIOchunk12.wav,"Yes, the person in this audio is depressed based on their speech pattern and tone of voice."
+test_475_AUDIOchunk15.wav,"Yes, the person is depressed."
+test_475_AUDIOchunk7.wav,"Yes, the person in this audio is depressed based on the low-pitched and slow speech speed."
+test_475_AUDIOchunk20.wav,"Yes, the person is depressed based on their speech."
+test_475_AUDIOchunk6.wav,"Speech sentiment score is 0. The  score ranges from -3 (very negative) to 3 (very positive), so the sentiment is neutral."
+test_475_AUDIOchunk1.wav,"Yes, the person is depressed based on their speech pattern and tone of voice. They sound sad and hopeless about something that happened earlier. The background noise also suggests a sense of isolation and loneliness."
+test_475_AUDIOchunk14.wav,"Yes, the speaker is sad based on their speech content and emotional rating of -1 which indicates negative emotion towards the topic being discussed."
+test_475_AUDIOchunk8.wav,"No, the person is not depressed as they laugh frequently."
+test_475_AUDIOchunk13.wav,"Yes, the person in this audio seems to be depressed."

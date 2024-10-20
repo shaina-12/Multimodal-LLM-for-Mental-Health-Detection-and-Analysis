@@ -1,0 +1,30 @@
+File Name,output
+test_320_AUDIOchunk9.wav,Yes: if the person is depressed
+test_320_AUDIOchunk7.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_320_AUDIOchunk24.wav,Yes
+test_320_AUDIOchunk23.wav,Yes
+test_320_AUDIOchunk18.wav,"Yes: If the person shows symptoms of depression, such as feeling anxious or fearful about their own thoughts and experiences, they may be experiencing symptoms of depression. Otherwise, no, if the person doesn't show these symptoms, they are likely not depressed."
+test_320_AUDIOchunk16.wav,Yes
+test_320_AUDIOchunk11.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_320_AUDIOchunk6.wav,Yes
+test_320_AUDIOchunk1.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression.
+test_320_AUDIOchunk8.wav,Yes
+test_320_AUDIOchunk10.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_320_AUDIOchunk17.wav,Yes: if the person is depressed.
+test_320_AUDIOchunk19.wav,Yes: if the person is depressed.
+test_320_AUDIOchunk22.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_320_AUDIOchunk25.wav,Yes
+test_320_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_320_AUDIOchunk13.wav,Yes: This question and response are related to the topic of depression.
+test_320_AUDIOchunk28.wav,Yes
+test_320_AUDIOchunk26.wav,Yes
+test_320_AUDIOchunk21.wav,Yes
+test_320_AUDIOchunk2.wav,Yes
+test_320_AUDIOchunk5.wav,Yes: if the person is depressed.
+test_320_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_320_AUDIOchunk27.wav,"Yes: If the person is depressed, they may express sadness or hopelessness."
+test_320_AUDIOchunk29.wav,Yes
+test_320_AUDIOchunk12.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_320_AUDIOchunk15.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_320_AUDIOchunk4.wav,Yes
+test_320_AUDIOchunk3.wav,Yes: if the person shows symptoms of depression.

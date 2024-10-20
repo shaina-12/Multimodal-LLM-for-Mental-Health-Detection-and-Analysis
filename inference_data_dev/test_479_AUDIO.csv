@@ -1,0 +1,32 @@
+File Name,output
+test_479_AUDIOchunk1.wav,"No, the person in this audio does not seem to be depressed as there are no signs of sadness or despair."
+test_479_AUDIOchunk6.wav,"No, the person is not depressed based on the given information and acoustic features of their speech pattern"
+test_479_AUDIOchunk8.wav,"Yes, the person is depressed based on their speech."
+test_479_AUDIOchunk31.wav,"No, the person is not depressed based on the given information."
+test_479_AUDIOchunk29.wav,"No, the person is not depressed"
+test_479_AUDIOchunk20.wav,Yes
+test_479_AUDIOchunk27.wav,Yes
+test_479_AUDIOchunk12.wav,"Yes, the person is depressed based on their speech content and tone"
+test_479_AUDIOchunk15.wav,No.
+test_479_AUDIOchunk30.wav,"No, the person is happy."
+test_479_AUDIOchunk9.wav,"Yes, the person is depressed as indicated by their speech."
+test_479_AUDIOchunk7.wav,"Yes, the person is depressed based on their speech pattern."
+test_479_AUDIOchunk14.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice."
+test_479_AUDIOchunk13.wav,"No, the person is not depressed based on the given information and acoustic features."
+test_479_AUDIOchunk26.wav,Yes
+test_479_AUDIOchunk21.wav,"Yes, the person is depressed."
+test_479_AUDIOchunk28.wav,Depressed.
+test_479_AUDIOchunk19.wav,Yes.
+test_479_AUDIOchunk10.wav,"No, the person is not depressed based on their speech pattern."
+test_479_AUDIOchunk17.wav,"Yes, the person is depressed as indicated by their speech."
+test_479_AUDIOchunk22.wav,"Yes, the person is depressed based on their speech pattern and tone of voice being low, slow, and monotone with little variation"
+test_479_AUDIOchunk25.wav,"No, the person is not depressed based on the given information"
+test_479_AUDIOchunk3.wav,"No, the person is not depressed in this audio."
+test_479_AUDIOchunk4.wav,"No, the person is not depressed as indicated by their cheerful and lively speech in the clip"
+test_479_AUDIOchunk24.wav,"Yes, the person is depressed based on the low pitch of their voice and slow speech speed"
+test_479_AUDIOchunk23.wav,"Yes, the person is depressed based on their speech patterns and tone of voice in the clip"
+test_479_AUDIOchunk16.wav,Yes.
+test_479_AUDIOchunk11.wav,"No, the person is not depressed based on the given speech content."
+test_479_AUDIOchunk18.wav,No.
+test_479_AUDIOchunk5.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_479_AUDIOchunk2.wav,"Yes, the person is depressed based on their speech."

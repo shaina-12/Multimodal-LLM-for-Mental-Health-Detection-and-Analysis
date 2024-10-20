@@ -1,0 +1,40 @@
+File Name,output
+test_425_AUDIOchunk35.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk32.wav,Yes: if the person is depressed
+test_425_AUDIOchunk18.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk11.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk5.wav,Yes: if the person shows symptoms of depression.
+test_425_AUDIOchunk16.wav,"Yes: If the person shows symptoms of depression, such as low energy levels, lack of motivation, and feelings of hopelessness, then they may be depressed. Otherwise, they may not be depressed based solely on the speech content. However, other factors such as behavioral changes, physical symptoms, and social interactions should also be considered to make an accurate diagnosis."
+test_425_AUDIOchunk2.wav,Yes: if the person shows symptoms of depression. No: if the person does not show symptoms of depression.
+test_425_AUDIOchunk23.wav,Yes: If the person shows symptoms of depression
+test_425_AUDIOchunk24.wav,"Yes: If the person is depressed, they may exhibit symptoms such as low energy levels and difficulty making decisions or expressing themselves clearly. However, it is important to note that depression can manifest differently in different individuals, so there is no definitive way to determine whether someone is depressed based solely on their speech patterns or tone of voice. Additionally, some people may have naturally monotone voices regardless of their mental state. Therefore, further evaluation by a professional would be necessary to make an accurate diagnosis."
+test_425_AUDIOchunk33.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk34.wav,Yes: The woman speaks with a soft and melodic tone which could be associated with depression.
+test_425_AUDIOchunk25.wav,Yes
+test_425_AUDIOchunk22.wav,"Yes: If the person is depressed, they may exhibit signs of sadness or hopelessness."
+test_425_AUDIOchunk17.wav,Yes
+test_425_AUDIOchunk3.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk10.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk4.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk19.wav,Yes: if the person is depressed
+test_425_AUDIOchunk28.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk21.wav,Yes
+test_425_AUDIOchunk26.wav,Yes
+test_425_AUDIOchunk13.wav,Yes: if the person is depressed.
+test_425_AUDIOchunk7.wav,Yes: if the person is depressed.
+test_425_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk9.wav,Yes: if the person is depressed.
+test_425_AUDIOchunk37.wav,Yes
+test_425_AUDIOchunk30.wav,Yes: if the person is depressed.
+test_425_AUDIOchunk39.wav,"Yes: if the person is depressed. No: if the person is not depressed. The speaker's tone and content suggest that they may be experiencing some level of sadness or emotional distress, which could indicate depression. However, it's important to note that there are many possible reasons for someone to sound down or upset, so we can't definitively say whether or not they are depressed based solely on this."
+test_425_AUDIOchunk8.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk15.wav,Yes
+test_425_AUDIOchunk1.wav,No
+test_425_AUDIOchunk12.wav,Yes: if the person is depressed.
+test_425_AUDIOchunk6.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_425_AUDIOchunk27.wav,Yes: if the person is depressed.
+test_425_AUDIOchunk20.wav,Yes
+test_425_AUDIOchunk29.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_425_AUDIOchunk38.wav,Yes
+test_425_AUDIOchunk31.wav,Yes
+test_425_AUDIOchunk36.wav,Yes

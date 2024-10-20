@@ -1,0 +1,29 @@
+File Name,output
+test_431_AUDIOchunk26.wav,"Yes, the person in this audio is depressed based on the speech content and the low-pitched and melancholic tone of their voice. The acoustic features of the speech indicate a lack of energy and enthusiasm, which are common symptoms of depression. Additionally, the use of words like 'wish' and 'sacrificial' suggest a sense of sadness and longing for something better."
+test_431_AUDIOchunk21.wav,"Yes, the person is depressed as indicated by their speech pattern and tone of voice. The background sound of clicking adds to the sense of disconnection and detachment from reality."
+test_431_AUDIOchunk28.wav,Yes
+test_431_AUDIOchunk3.wav,"No, the person is not depressed based on the tone of their voice and the content of their speech"
+test_431_AUDIOchunk4.wav,No
+test_431_AUDIOchunk14.wav,"Yes, the person is depressed"
+test_431_AUDIOchunk13.wav,Yes
+test_431_AUDIOchunk12.wav,No.
+test_431_AUDIOchunk15.wav,Yes.
+test_431_AUDIOchunk5.wav,No
+test_431_AUDIOchunk2.wav,"Yes, the person is depressed based on their speech patterns."
+test_431_AUDIOchunk20.wav,"Yes, the person is depressed"
+test_431_AUDIOchunk27.wav,Depressed.
+test_431_AUDIOchunk16.wav,No.
+test_431_AUDIOchunk8.wav,Yes.
+test_431_AUDIOchunk11.wav,"Yes, the person is depressed."
+test_431_AUDIOchunk1.wav,"Yes, the person is depressed in this audio."
+test_431_AUDIOchunk18.wav,"Yes, the woman is depressed based on her speech pattern and tone."
+test_431_AUDIOchunk6.wav,"No, the person is not depressed based on the given acoustic features of the speech, which are smooth and articulate, indicating that they are speaking confidently and without any signs of sadness or negativity. The tone of their voice is also positive and upbeat, suggesting that they are happy and content with their current situation. Therefore, it can be inferred that the person in this audio clip is not depressed."
+test_431_AUDIOchunk24.wav,"No, the speaker does not sound depressed based on the given acoustic features of her speech pattern and tone. She sounds calm and composed throughout the clip, with occasional pauses for breathing."
+test_431_AUDIOchunk23.wav,"Yes, the speaker is depressed as per the given information."
+test_431_AUDIOchunk22.wav,"No, the person is not depressed based on the given information. The speech content suggests that the person is happy and satisfied with their life, which is not characteristic of someone who is depressed. Therefore, the answer is 'no', the person is not depressed"
+test_431_AUDIOchunk25.wav,Yes
+test_431_AUDIOchunk19.wav,"Depressed, because they are crying and expressing sadness."
+test_431_AUDIOchunk7.wav,"Yes, the speaker is depressed as indicated by their low-pitched and soft voice while speaking."
+test_431_AUDIOchunk10.wav,"Yes, the person is happy"
+test_431_AUDIOchunk17.wav,"Yes, the person is depressed as they are talking about feeling unhappy and not very happy often."
+test_431_AUDIOchunk9.wav,"Yes, the person is depressed based on the description of their speech."

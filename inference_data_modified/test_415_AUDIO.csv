@@ -1,0 +1,28 @@
+File Name,output
+test_415_AUDIOchunk21.wav,Yes
+test_415_AUDIOchunk2.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk5.wav,Yes: if the person is depressed
+test_415_AUDIOchunk26.wav,Yes: The person shows symptoms of depression based on their speech.
+test_415_AUDIOchunk13.wav,"Yes: If the person is depressed, they may express their feelings and emotions more openly and honestly than someone who is not depressed would do so. They may also have difficulty controlling their emotions or may be more prone to outbursts of anger or frustration."
+test_415_AUDIOchunk14.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk15.wav,Yes: If the person is depressed. No: If the person is not depressed.
+test_415_AUDIOchunk12.wav,Yes: if the person is depressed
+test_415_AUDIOchunk4.wav,Yes: if the person is depressed.
+test_415_AUDIOchunk27.wav,"Yes: If the person is depressed, they may exhibit symptoms such as sadness or hopelessness that are reflected in their speech patterns."
+test_415_AUDIOchunk20.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk3.wav,"Yes: If the person is depressed, they may exhibit signs of sadness or hopelessness during their speech, which can be heard as monotone or flat."
+test_415_AUDIOchunk11.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk16.wav,Yes
+test_415_AUDIOchunk18.wav,Yes: if the person is depressed.
+test_415_AUDIOchunk9.wav,Yes
+test_415_AUDIOchunk23.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk24.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk7.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk25.wav,Yes: if the person is depressed. No: if the person is not depressed.
+test_415_AUDIOchunk6.wav,Yes: If the person shows symptoms of depression. No: If the person does not show symptoms of depression.
+test_415_AUDIOchunk1.wav,Yes: If the person is depressed
+test_415_AUDIOchunk22.wav,Yes: if the person is depressed.
+test_415_AUDIOchunk8.wav,Yes: The woman's speech suggests that she may be experiencing some level of sadness or emotional distress based on her tone and pacing. This could indicate depression or other mental health issues.
+test_415_AUDIOchunk19.wav,Yes: if the person is depressed.
+test_415_AUDIOchunk17.wav,Yes
+test_415_AUDIOchunk10.wav,Yes: if the person shows symptoms of depression.

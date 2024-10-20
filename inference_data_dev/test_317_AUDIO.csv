@@ -1,0 +1,28 @@
+File Name,output
+test_317_AUDIOchunk6.wav,"No, the person is not depressed as they are laughing and talking with others. However, their coughing could be an indication of respiratory issues."
+test_317_AUDIOchunk1.wav,"No, the person in this audio is not depressed as there are no signs of sadness or despair in their speech and breathing patterns."
+test_317_AUDIOchunk23.wav,"Yes, the person is depressed."
+test_317_AUDIOchunk24.wav,"No, the person is not depressed as they are laughing."
+test_317_AUDIOchunk8.wav,"Yes, the person is depressed based on their speech pattern and tone of voice."
+test_317_AUDIOchunk11.wav,"No, the person is not depressed based on their speech."
+test_317_AUDIOchunk16.wav,Yes
+test_317_AUDIOchunk18.wav,Yes.
+test_317_AUDIOchunk19.wav,"Yes, the person is depressed based on their speech pattern."
+test_317_AUDIOchunk17.wav,"Yes, the person is depressed based on their speech pattern."
+test_317_AUDIOchunk10.wav,"Yes, the person is depressed based on their speech pattern."
+test_317_AUDIOchunk25.wav,Depressed
+test_317_AUDIOchunk9.wav,Depressed.
+test_317_AUDIOchunk22.wav,"Yes, the person is feeling sad and depressed based on their speech"
+test_317_AUDIOchunk7.wav,"Yes, the person is depressed."
+test_317_AUDIOchunk13.wav,"No, the person is not depressed based on the given acoustic features of their speech and breathing."
+test_317_AUDIOchunk14.wav,Yes
+test_317_AUDIOchunk21.wav,"Yes, the person is depressed based on their speech."
+test_317_AUDIOchunk26.wav,Yes
+test_317_AUDIOchunk4.wav,"No, the person is not depressed as indicated by their smooth and articulate speech."
+test_317_AUDIOchunk3.wav,"Yes, the person is depressed as indicated by their speech."
+test_317_AUDIOchunk2.wav,"No, the person is not depressed as indicated by their cheerful tone of voice and positive attitude."
+test_317_AUDIOchunk5.wav,"No, the person is not depressed based on the given information."
+test_317_AUDIOchunk27.wav,"No, the person is not depressed based on the given information"
+test_317_AUDIOchunk20.wav,"No, the person is not depressed as indicated by their cheerful and lively speech pattern."
+test_317_AUDIOchunk15.wav,"No, the person is not depressed based on the given acoustic features of the speech sound."
+test_317_AUDIOchunk12.wav,"No, the person is not depressed based on the given acoustic features and speech."
