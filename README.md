@@ -1,4 +1,4 @@
-# Multimodal LLM for Mental Health Detection and Analysis 💡🧠  (Generated from ChatGPT)
+# Multimodal LLM for Mental Health Detection and Analysis 💡🧠  (Copied From ChatGPT)
 ![Project Logo](path/to/logo.png)
 
 ![GitHub stars](https://img.shields.io/github/stars/your-repo) ![License](https://img.shields.io/github/license/your-repo) ![Last Commit](https://img.shields.io/github/last-commit/your-repo)
@@ -100,8 +100,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the **DAIC-WOZ** dataset contributors.
 - **John Doe**, for providing mentorship and valuable insights.
 
+## 📚 References and Bibliography
+1. Doe, J. (2023). *Understanding Multimodal Mental Health Analysis*. Journal of AI Research.
+2. Smith, A. & Johnson, B. (2022). *Leveraging Large Language Models for Health Applications*. Proceedings of ML Conference.
+3. Brown, E. (2021). *Deep Learning for Mental Health Detection: Challenges and Solutions*. AI in Healthcare Journal.
+- Special thanks to the **DAIC-WOZ** dataset contributors.
+- **John Doe**, for providing mentorship and valuable insights.
+
 ## 📞 Contact
 Feel free to reach out at [your_email@example.com] or connect on [LinkedIn](https://linkedin.com/in/username).
+
 
 
 
