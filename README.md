@@ -1,4 +1,4 @@
-# Multimodal LLM for Mental Health Detection and Analysis 💡🧠  
+# Multimodal LLM for Mental Health Detection and Analysis 💡🧠  (Generated from ChatGPT)
 ![Project Logo](path/to/logo.png)
 
 ![GitHub stars](https://img.shields.io/github/stars/your-repo) ![License](https://img.shields.io/github/license/your-repo) ![Last Commit](https://img.shields.io/github/last-commit/your-repo)
