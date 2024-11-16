@@ -1,5 +1,3 @@
-# Multimodal-LLM-for-Mental-Health-Detection-and-Analysis
-
 # Multimodal LLM for Mental Health Detection and Analysis 💡🧠  
 ![Project Logo](path/to/logo.png)
 
@@ -138,7 +136,7 @@ Feel free to reach out at [your_email@example.com] or connect on [LinkedIn](http
 
 
 
-
+# Multimodal-LLM-for-Mental-Health-Detection-and-Analysis
 
 ## Authors
 
