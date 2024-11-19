@@ -22,6 +22,9 @@ from whisper.model import Whisper, ModelDimensions
 # this is a dirty workaround to have two whisper instances, whisper model for extract encoder feature, and whisper-at to get transcription.
 # in future version, this two instance will be unified
 
+#os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
+#os.environ["CUDA_VISIBLE_DEVICES"] = "5,3,6"
+
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 def convert_params_to_float32(model):
@@ -36,7 +39,7 @@ whisper_text_model = whisper_at.load_model("large-v2", device='cuda:1')
 
 def load_whisper():
     mdl_size = 'large-v1'
-    checkpoint_path = '../../pretrained_mdls/{:s}.pt'.format(mdl_size)
+    checkpoint_path = '/media/nas_mount/shaina_mehta/baseline/ltu_new/ltu/pretrained_mdls/{:s}.pt'.format(mdl_size)
     checkpoint = torch.load(checkpoint_path, map_location='cuda:0')
     dims = ModelDimensions(**checkpoint["dims"])
     whisper_feat_model = Whisper(dims)
@@ -46,10 +49,14 @@ def load_whisper():
 whisper_feat_model = load_whisper()
 
 # do not change this, this will load llm
-base_model = "../../pretrained_mdls/vicuna_ltuas/"
+
+#base_model = "../../pretrained_mdls/vicuna_ltuas/"
+base_model = "/media/nas_mount/shaina_mehta/baseline/ltu_new/ltu/pretrained_mdls/vicuna_ltuas/"
 prompt_template = "alpaca_short"
 # change this to your checkpoint
-eval_mdl_path = '../../pretrained_mdls/ltuas_long_noqa_a6.bin'
+#eval_mdl_path = '/media/nas_mount/shaina_mehta/baseline/ltu_new/ltu/src/ltu_as/exp/final_finetuned/checkpoint-30/pytorch_model.bin'
+#/media/nas_mount/shaina_mehta/baseline/ltu_new/ltu/pretrained_mdls/ltuas_long_noqa_a6.bin
+eval_mdl_path = '/media/nas_mount/shaina_mehta/baseline/ltu_new/ltu/src/ltu_as/exp/final_finetuned/checkpoint-30/pytorch_model.bin'
 eval_mode = 'joint'
 prompter = Prompter(prompt_template)
 tokenizer = LlamaTokenizer.from_pretrained(base_model)
@@ -186,6 +193,55 @@ def predict(audio_path, question):
         json.dump(eval_log, outfile, indent=1)
     print('eclipse time: ', end_time-begin_time, ' seconds.')
     return trim_string(output)
+
+
+def ltu_as_predict(audio_path, question):
+    print('audio path, ', audio_path)
+    begin_time = time.time()
+
+    if audio_path != None:
+        cur_audio_input, cur_input = load_audio_trans(audio_path)
+        if torch.cuda.is_available() == False:
+            pass
+        else:
+            cur_audio_input = cur_audio_input.unsqueeze(0).half().to(device)
+
+    instruction = question
+    prompt = prompter.generate_prompt(instruction, cur_input)
+    print('Input prompt: ', prompt)
+    inputs = tokenizer(prompt, return_tensors="pt")
+    input_ids = inputs["input_ids"].to(device)
+
+    generation_config = GenerationConfig(
+        do_sample=True,
+        temperature=temp,
+        top_p=top_p,
+        top_k=top_k,
+        repetition_penalty=1.1,
+        max_new_tokens=500,
+        bos_token_id=model.config.bos_token_id,
+        eos_token_id=model.config.eos_token_id,
+        pad_token_id=model.config.pad_token_id,
+        num_return_sequences=1
+    )
+
+    # Without streaming
+    with torch.no_grad():
+        generation_output = model.generate(
+            input_ids=input_ids,
+            audio_input=cur_audio_input,
+            generation_config=generation_config,
+            return_dict_in_generate=True,
+            output_scores=True,
+            max_new_tokens=500,
+        )
+    s = generation_output.sequences[0]
+    output = tokenizer.decode(s)
+    output = output[5:-4]
+    end_time = time.time()
+    print(trim_string(output))
+    print('eclipse time: ', end_time-begin_time, ' seconds.')
+    return trim_string(output), cur_input
 """
 link = "https://github.com/YuanGongND/ltu"
 text = "[Github]"

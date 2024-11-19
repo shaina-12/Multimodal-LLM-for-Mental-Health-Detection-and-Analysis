@@ -24,6 +24,9 @@ from transformers import LlamaForCausalLM, LlamaTokenizer
 
 from utils.prompter import Prompter
 
+#os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
+#os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+
 def train(
     # model/data params
     base_model: str = "",  # the only required argument
@@ -287,4 +290,7 @@ def train(
     model.save_pretrained(output_dir)
 
 if __name__ == "__main__":
+    os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,3,4"
+    
     fire.Fire(train)
