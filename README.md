@@ -32,6 +32,6 @@
 
 **Link of Mid Project Review: https://github.com/shaina-12/Multimodal-LLM-for-Mental-Health-Detection-and-Analysis/tree/mid-review**
 
-**Link of Final Deliverables:**
+**Link of Final Deliverables: https://github.com/shaina-12/Multimodal-LLM-for-Mental-Health-Detection-and-Analysis/tree/final_submission**
 
 ## References and Bibliography
