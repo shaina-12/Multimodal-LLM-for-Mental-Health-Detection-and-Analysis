@@ -14,17 +14,16 @@
 
 export TRANSFORMERS_CACHE=./hf_cache/
 export HF_DATASETS_CACHE=./hf_cache/
-output_dir='../exp/ltuas_ft_toy_low_resource/'
+output_dir='../exp/full_final_finetuned/'
 mkdir -p $output_dir
 cp "$0" ${output_dir}/$(date +"%Y-%m-%d-%H-%M-%S").sh
-
 python ../finetune_low_resource.py \
     --base_model '../../../pretrained_mdls/ltuas_long_noqa_a6.bin' \
-    --data_path '../../../openasqa/data/openasqa_toy.json' \
+    --data_path '../dataset/osdvd_edic_train_dev_dataset.json' \
     --output_dir $output_dir \
     --batch_size 256 \
     --micro_batch_size 1 \
-    --num_epochs 1 \
+    --num_epochs 4 \
     --learning_rate 2e-4 \
     --cutoff_len 100 \
     --val_set_size 0 \
@@ -33,8 +32,7 @@ python ../finetune_low_resource.py \
     --lora_dropout 0.05 \
     --lora_target_modules '[q_proj,v_proj]' \
     --group_by_length \
-    --wandb_run_name ${output_dir} \
-    --save_steps 30 \
+    --save_steps 10 \
     --trainable_params all
 
 pkill -f wandb

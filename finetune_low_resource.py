@@ -1,5 +1,7 @@
 # this code is modified from lora_alpaca https://github.com/tloen/alpaca-lora under Apache-2.0 license
 import os
+os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"
 from typing import List
 
 import fire
@@ -259,12 +261,12 @@ def train(
             logging_steps=10,
             optim="adamw_torch",
             evaluation_strategy="no",
-            save_strategy="steps",
+            save_strategy="epoch",
             eval_steps=None,
             save_steps=save_steps,
             dataloader_num_workers=8,
             output_dir=output_dir,
-            save_total_limit=50,
+            save_total_limit=3,
             load_best_model_at_end=False,
             ddp_find_unused_parameters=False if ddp else None,
             group_by_length=group_by_length,
