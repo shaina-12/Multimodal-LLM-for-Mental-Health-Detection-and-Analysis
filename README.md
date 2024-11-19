@@ -2,12 +2,12 @@
 
 ## Authors
 
-### Chayan Tank
-### Mahisha R.
-### Sarthak Pol
-### Shaina Mehta
-### Sonik Sandip Sarungale
-### Vinayak Katoch
+### *Chayan Tank*
+### *Mahisha R.*
+### *Sarthak Pol*
+### *Shaina Mehta*
+### *Sonik Sandip Sarungale*
+### *Vinayak Katoch*
 
 ## Submitted To
 
