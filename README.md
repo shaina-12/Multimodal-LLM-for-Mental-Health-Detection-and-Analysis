@@ -15,7 +15,6 @@
 
 ## About the Project
 
-## How to Run the Project
 
 ## Individual Contribution to the Work
 
