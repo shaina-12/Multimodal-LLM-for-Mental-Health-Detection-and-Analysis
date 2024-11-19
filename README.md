@@ -1,4 +1,4 @@
-# Multimodal-LLM-for-Mental-Health-Detection-and-Analysis (Original)
+# Multimodal-LLM-for-Mental-Health-Detection-and-Analysis
 
 ## Authors
 
