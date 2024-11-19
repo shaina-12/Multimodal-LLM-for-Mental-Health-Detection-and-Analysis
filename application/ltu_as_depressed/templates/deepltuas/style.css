@@ -1,0 +1,124 @@
+/* styles.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 500px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+  
+  header p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .audio-input h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #ffdf00;
+  }
+  
+  .options {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  button, input[type="file"] {
+    padding: 15px 30px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    background-color: #ff477e;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  button:hover, input[type="file"]:hover {
+    background-color: #d34c6f;
+  }
+  
+  .file-input {
+    display: none;
+  }
+  
+  .loading {
+    margin-top: 20px;
+  }
+  
+  .spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #00c6ff;
+    border-radius: 50%;
+    animation: spin 1.5s linear infinite;
+    margin: 0 auto;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .result {
+    margin-top: 30px;
+  }
+  
+  .result h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .result p {
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    background-color: #00c6ff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .btn:hover {
+    background-color: #00a2c6;
+  }
+  
+  #status-message {
+    margin-top: 10px;
+    color: #ffdf00;
+    font-size: 1.1rem;
+  }
+  

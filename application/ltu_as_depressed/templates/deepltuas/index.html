@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neural Navigator</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i|Montserrat:700" rel=stylesheet>
+  <link href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@400;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #161616;
+      font-family: "Poppins", sans-serif;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      text-align: center;
+      background: #2c2c2c;
+      border: 1px solid #2c2c2c;
+      padding: 30px;
+      border-radius: 8px;
+      max-width: 600px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+      animation: fadeIn 1s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: scale(0.9);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    header h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      font-family: Roboto Mono, monospace, sans-serif;
+      color: #fff;
+    }
+    header p, .para {
+      font-size: 14px;
+      color: #c0c0c0;
+    }
+    header p{
+      margin: 15px 0px;
+    }
+    .para {
+      margin-top: 15px;
+    }
+
+    .audio-input h2 {
+      font-size: 1.7rem;
+      margin-bottom: 25px;
+      color: #ff8c00;
+    }
+
+    .options {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .or-label {
+      margin: 10px 0;
+      font-size: 16px;
+      color: #fff;
+      letter-spacing: 1px;
+    }
+
+    button, input[type="file"] {
+      padding: 10px 25px;
+      font-size: 14px;
+      border: none;
+      border-radius: 4px;
+      background: #000;
+      color: white;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+      font-family: "Poppins", sans-serif;
+    }
+
+    button:hover, input[type="file"]:hover {
+      transform: scale(1.05);
+    }
+
+    input[type="file"] {
+      display: block;
+      margin: 10px auto;
+    }
+
+    .loading {
+      margin-top: 20px;
+    }
+
+    .spinner {
+      width: 60px;
+      height: 60px;
+      border: 5px solid rgba(255, 255, 255, 0.2);
+      border-top: 5px solid #fff;
+      border-radius: 50%;
+      animation: spin 1.5s linear infinite;
+      margin: 20px auto;
+    }
+
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .result {
+      margin-top: 30px;
+      animation: fadeIn 0.8s ease-out;
+      border: 1px solid #fff;
+      border-radius: 4px;
+      padding: 20px;
+    }
+
+    .result h2 {
+      font-size: 18px;
+      margin-bottom: 5px;
+      font-weight: 600;
+      color: #fff;
+    }
+
+    .result p {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    #status-message {
+      margin-top: 15px;
+      color: #fff;
+      font-size: 14px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 10px 25px;
+      font-size: 14px;
+      border-radius: 4px;
+      background: #000;
+      color: white;
+      cursor: pointer;
+      transition: transform 0.3s ease, background 0.3s ease;
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+      font-family: "Poppins", sans-serif;
+    }
+
+    .btn:hover {
+      transform: translateY(-3px);
+    }
+    #check-depression{
+      margin-top: 15px;
+      width: 100%;
+    }
+    @media (max-width: 480px) {
+      body{
+        padding: 20px 0px;
+      }
+      .container{
+        width: 90%;
+      }
+      header p{
+        font-size: 12px;
+      }
+      .btn{
+        padding: 8px 18px;
+        font-size: 11px;
+      }
+      .or-label{
+        font-size: 12px;
+      }
+      button, input[type="file"]{
+        padding: 8px 18px;
+        width: 100%;
+        font-size: 11px;
+      }
+      header p, .para{
+        font-size: 12px;
+      }
+      #status-message{
+        font-size: 12px;
+      }
+      .result h2{
+        font-size: 13px;
+      }
+      .result p{
+        font-size: 12px;
+      }
+      .result{
+        margin-top: 20px;
+        padding: 12px;
+      }
+      .result h2{
+        margin-bottom: 0px;
+      }
+      .result p{
+        margin-bottom: 4px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Neural Navigator</h1>
+      <p>Upload or record an audio file, and this application will analyze both the audio and its transcribed text to assess whether the user shows signs of depression or not.</p>
+    </header>
+    <main>
+      <div class="audio-input">
+        <div class="options">
+          <button id="record-btn" class="btn">Start Recording</button>
+          <button id="stop-btn" class="btn" disabled>Stop Recording</button>
+        </div>
+        <p class="or-label">or</p>
+        <input type="file" id="upload-file" accept="audio/*" class="file-input">
+        <p class="para">Check for signs of depression by recording and uploading your audio.</p>
+        <button id="check-depression" class="btn">Analyze Audio</button>
+        <p id="status-message"></p>
+      </div>
+      <div class="loading" id="loading" hidden>
+        <div class="spinner"></div>
+        <p>Analyzing audio...</p>
+      </div>
+      <div class="result" id="result" hidden>
+        <h2>Analysis Result</h2>
+        <p id="result-text"></p>
+      </div>
+    </main>
+  </div>
+
+  <script>
+const recordBtn = document.getElementById('record-btn');
+const stopBtn = document.getElementById('stop-btn');
+const uploadFile = document.getElementById('upload-file');
+const checkDepressionBtn = document.getElementById('check-depression');
+const loadingDiv = document.getElementById('loading');
+const resultDiv = document.getElementById('result');
+const resultText = document.getElementById('result-text');
+const statusMessage = document.getElementById('status-message');
+
+let mediaRecorder;
+let audioChunks = [];
+let audioBlob;
+let audioUrl;
+let audio = new Audio();
+let selectedFile = null;
+
+recordBtn.addEventListener('click', startRecording);
+stopBtn.addEventListener('click', stopRecording);
+checkDepressionBtn.addEventListener('click', handleCheckDepression);
+uploadFile.addEventListener('change', handleFileUpload);
+
+// Start recording audio
+function startRecording() {
+  if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+    navigator.mediaDevices.getUserMedia({ audio: true })
+      .then(stream => {
+        mediaRecorder = new MediaRecorder(stream);
+        mediaRecorder.ondataavailable = (event) => {
+          audioChunks.push(event.data);
+        };
+        mediaRecorder.onstop = () => {
+          audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+          audioUrl = URL.createObjectURL(audioBlob);
+          audio.src = audioUrl;
+        };
+        mediaRecorder.start();
+        statusMessage.textContent = 'Recording...';
+        stopBtn.disabled = false;
+        recordBtn.disabled = true;
+      })
+      .catch(err => {
+        console.error('Error accessing microphone:', err);
+        statusMessage.textContent = 'Error accessing microphone. Please try again.';
+      });
+  } else {
+    statusMessage.textContent = 'Your browser does not support recording.';
+  }
+}
+
+function stopRecording() {
+  mediaRecorder.stop();
+  statusMessage.textContent = 'Recording stopped. You can upload...';
+  stopBtn.disabled = true;
+  recordBtn.disabled = false;
+}
+
+// Handle file upload
+function handleFileUpload(event) {
+  selectedFile = event.target.files[0];
+  if (selectedFile) {
+    statusMessage.textContent = 'File selected. You can still record your own audio.';
+  }
+}
+
+// Check Depression by sending the audio (either live recording or selected file)
+function handleCheckDepression() {
+  const file = audioBlob || selectedFile; // Check if live recording exists, else use uploaded file
+
+  if (!file) {
+    statusMessage.textContent = 'Please record audio or upload a file first.';
+    return;
+  }
+
+  statusMessage.textContent = 'Analyzing audio...';
+  sendAudioToAPI(file);
+}
+// Send audio to the API
+async function sendAudioToAPI(file) {
+  showLoading();
+
+  const formData = new FormData();
+  formData.append('audio', file, file.name || 'recorded_audio.wav'); // Use file name if available, else default
+
+  try {
+    const response = await fetch('/upload-audio/', {
+      method: 'POST',
+      body: formData
+    });
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+
+    const result = await response.json();
+    console.log(result);
+    showResult(result);
+  } catch (error) {
+    showResult({ error: true, message: 'Error analyzing audio' });
+    console.error('Error:', error);
+  }
+}
+
+// Show loading screen
+function showLoading() {
+  loadingDiv.hidden = false;
+  resultDiv.hidden = true;
+}
+
+// Show analysis result
+function showResult(response) {
+  loadingDiv.hidden = true;
+  resultDiv.hidden = false;
+
+  if (response.error) {
+    resultText.textContent = response.message;
+    resultText.style.color = '#ef9a9a';
+  } else {
+    if (response.isDepressed === null || response.isDepressed === undefined) {
+      resultText.textContent = 'Not Sure';
+      resultText.style.color = 'gray'; 
+    } else {
+      resultText.textContent = response.isDepressed ? 'Depressed' : 'Not Depressed';
+      resultText.style.color = response.isDepressed ? '#ef9a9a' : '#c5e1a5';
+    }
+  }
+  resetInputs();
+}
+function resetInputs() {
+  uploadFile.value = '';
+
+  audioChunks = [];
+  audioBlob = null;
+  audioUrl = null;
+  selectedFile = null;
+
+  statusMessage.textContent = '';
+}
+  </script>
+</body>
+</html>
