@@ -1,0 +1,10 @@
+[
+    {
+        "instruction": "In this audio clip, does the person sounds Depressed or Not Depressed?",
+        "input": " She's hot. Really? I was kind of like joking. Okay, so she's going to ask you some questions, and then when she's done, she'll say goodbye, and then you're going to press this button to let me know. Got it. Okay, thank you so much. Okay.",
+        "audio_id": "/media/nas_mount/shaina_mehta/Daic-Woz-Extended/chunk_samples/samples/sample_chunk/443_P/443_P_chunk_1.wav",
+        "dataset": "EDAIC",
+        "task": "mental_health_finetune",
+        "output": "No."
+    }
+]
